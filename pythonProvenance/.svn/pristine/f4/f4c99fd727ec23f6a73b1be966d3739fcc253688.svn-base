@@ -1,0 +1,7 @@
+f = open ('sample.txt', 'w')
+f.write(100)
+f.close()
+
+
+
+

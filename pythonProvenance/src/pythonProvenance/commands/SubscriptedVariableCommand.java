@@ -1,0 +1,35 @@
+package pythonProvenance.commands;
+
+
+public class SubscriptedVariableCommand extends Command{
+	
+	//private String name;
+	private String name;
+	private Command subscript;
+	private int line;
+	
+	public SubscriptedVariableCommand(String a, Command b, int c){
+		//this.name = s;
+		this.name = a;
+		this.subscript = b;
+		this.line = c;
+	}
+	
+	public String getName(){
+		return this.name;
+	}
+	
+	public int getLine(){
+		return this.line;
+	}
+
+	public Command getSubscript(){
+		return this.subscript;
+	}
+	
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return true;
+	}
+}

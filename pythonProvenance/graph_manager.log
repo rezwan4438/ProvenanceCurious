@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649867</millis>
+  <sequence>3404</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: "y" Union</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649867</millis>
+  <sequence>3405</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: Creating List Union</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649867</millis>
+  <sequence>3406</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649868</millis>
+  <sequence>3407</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 argparse.ArgumentParser..if __name__=='__main__'..Union..=..=..=..=..=..add_argument..add_argument..parse_args..if __name__=='__main__'..Union Merged Process</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649869</millis>
+  <sequence>3408</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>argparse.ArgumentParser..if __name__=='__main__'..Union =..=..=..=..=..add_argument..add_argument..parse_args..if __name__=='__main__'..Union </message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649869</millis>
+  <sequence>3409</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: __name__ =..=..=..=..=..add_argument..add_argument..parse_args..if __name__=='__main__'..Union</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649869</millis>
+  <sequence>3410</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: '__main__' =..=..=..=..=..add_argument..add_argument..parse_args..if __name__=='__main__'..Union</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649870</millis>
+  <sequence>3411</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649871</millis>
+  <sequence>3412</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 SPARQLWrapper.SPARQLWrapper..if __name__=='__main__'..Union..setReturnFormat..addCustomParameter..setReturnFormat..addCustomParameter..setQuery..query Merged Process</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649871</millis>
+  <sequence>3413</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>SPARQLWrapper.SPARQLWrapper..if __name__=='__main__'..Union setReturnFormat..addCustomParameter..setReturnFormat..addCustomParameter..setQuery..query </message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649872</millis>
+  <sequence>3414</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: __name__ setReturnFormat..addCustomParameter..setReturnFormat..addCustomParameter..setQuery..query</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649872</millis>
+  <sequence>3415</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: '__main__' setReturnFormat..addCustomParameter..setReturnFormat..addCustomParameter..setQuery..query</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649873</millis>
+  <sequence>3416</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649874</millis>
+  <sequence>3417</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 if yn=="y"..Union..else..Union..subprocess.check_output..if yn=="y" Merged Process</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649874</millis>
+  <sequence>3418</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>if yn=="y"..Union..else..Union subprocess.check_output..if yn=="y" </message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649874</millis>
+  <sequence>3419</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: yn subprocess.check_output..if yn=="y"</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649875</millis>
+  <sequence>3420</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: "y" subprocess.check_output..if yn=="y"</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649875</millis>
+  <sequence>3421</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: Creating List subprocess.check_output..if yn=="y"</message>
+</record>
+<record>
+  <date>2012-11-29T01:40:49</date>
+  <millis>1354149649876</millis>
+  <sequence>3422</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+</log>

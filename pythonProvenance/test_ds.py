@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222320</millis>
+  <sequence>6834</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222324</millis>
+  <sequence>6835</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222327</millis>
+  <sequence>6836</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222329</millis>
+  <sequence>6837</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222331</millis>
+  <sequence>6838</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222335</millis>
+  <sequence>6839</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222338</millis>
+  <sequence>6840</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222340</millis>
+  <sequence>6841</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222343</millis>
+  <sequence>6842</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222347</millis>
+  <sequence>6843</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222350</millis>
+  <sequence>6844</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222352</millis>
+  <sequence>6845</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222355</millis>
+  <sequence>6846</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222359</millis>
+  <sequence>6847</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222361</millis>
+  <sequence>6848</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222364</millis>
+  <sequence>6849</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222366</millis>
+  <sequence>6850</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222371</millis>
+  <sequence>6851</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222379</millis>
+  <sequence>6852</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222381</millis>
+  <sequence>6853</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222384</millis>
+  <sequence>6854</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222388</millis>
+  <sequence>6855</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222391</millis>
+  <sequence>6856</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222393</millis>
+  <sequence>6857</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222395</millis>
+  <sequence>6858</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222400</millis>
+  <sequence>6859</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222402</millis>
+  <sequence>6860</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222405</millis>
+  <sequence>6861</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222407</millis>
+  <sequence>6862</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222418</millis>
+  <sequence>6863</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222421</millis>
+  <sequence>6864</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222423</millis>
+  <sequence>6865</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222425</millis>
+  <sequence>6866</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222429</millis>
+  <sequence>6867</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222432</millis>
+  <sequence>6868</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222434</millis>
+  <sequence>6869</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222437</millis>
+  <sequence>6870</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222441</millis>
+  <sequence>6871</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222443</millis>
+  <sequence>6872</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222445</millis>
+  <sequence>6873</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222447</millis>
+  <sequence>6874</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222451</millis>
+  <sequence>6875</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222454</millis>
+  <sequence>6876</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222456</millis>
+  <sequence>6877</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222459</millis>
+  <sequence>6878</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222463</millis>
+  <sequence>6879</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222465</millis>
+  <sequence>6880</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222467</millis>
+  <sequence>6881</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222470</millis>
+  <sequence>6882</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222475</millis>
+  <sequence>6883</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222479</millis>
+  <sequence>6884</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222482</millis>
+  <sequence>6885</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222484</millis>
+  <sequence>6886</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222489</millis>
+  <sequence>6887</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222491</millis>
+  <sequence>6888</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222493</millis>
+  <sequence>6889</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222495</millis>
+  <sequence>6890</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222499</millis>
+  <sequence>6891</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222502</millis>
+  <sequence>6892</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222504</millis>
+  <sequence>6893</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222507</millis>
+  <sequence>6894</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222511</millis>
+  <sequence>6895</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222514</millis>
+  <sequence>6896</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P14 sub: P16 found: P45</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222516</millis>
+  <sequence>6897</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P16 sub: P23 found: P18</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222518</millis>
+  <sequence>6898</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P23 sub: P23 found: P44</message>
+</record>
+<record>
+  <date>2012-11-21T16:53:42</date>
+  <millis>1353513222523</millis>
+  <sequence>6899</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>methodConcatenation</method>
+  <thread>10</thread>
+  <message>Cur: P12 sub: P14 found: P45</message>
+</record>

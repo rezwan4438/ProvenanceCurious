@@ -1,0 +1,49 @@
+class myClass:
+    def __init__(self,a,b):
+        self.x = a
+        self.y = b
+    def myFunc(self):
+        return self.x+self.y
+    def setX(self,a):
+    	self.x = a
+    def setY(self,b):
+    	self.y = b;
+    def getX(self):
+    	return self.x
+    def getY(self):
+    	return self.y
+    
+
+class myClass1:
+    def __init__(self,a,b):
+        self.x1 = a
+        self.y1 = b
+    def myFunc(self):
+        return self.x1+self.y1
+
+
+x = myClass(1,2)
+
+x.x = 10
+
+z=x.y
+
+
+
+
+#d = x.myFunc()
+
+#x = myClass1(3,4)
+
+#d = x.myFunc()
+
+#x.y1 = 20
+
+#z = myClass(100,200)
+
+#a = z
+
+#b = a.x + a.y
+
+
+

@@ -1,0 +1,12 @@
+try:
+	siteListFullName = "%s" %(siteListPath) + "\\%s" %(siteListFile)
+	siteListF = open(siteListFullName, 'r')
+	#Read lines split each and get rid of the \n at the end of each line
+	linNr = 0
+	siteNrList = []
+	siteLineAllList = []
+	siteListF.close()
+	##print 'siteLineAllList: %s' %siteLineAllList
+	print 'siteNrList %s' %(siteNrList)
+except:
+	print 'File %s' %(siteListFullName) + ' not existing or not ready to read!'

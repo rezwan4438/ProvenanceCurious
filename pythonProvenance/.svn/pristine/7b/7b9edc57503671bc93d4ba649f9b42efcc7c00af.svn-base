@@ -1,0 +1,10 @@
+for i in range(1,10):
+	b = pcr.readmap('input_file%02d'%(i))
+	a = b + 10
+	pcr.report(a, 'output_file_%02d'%(i))
+	c = a + 10
+
+	
+
+
+

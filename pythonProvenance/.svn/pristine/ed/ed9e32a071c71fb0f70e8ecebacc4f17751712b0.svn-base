@@ -1,0 +1,23 @@
+package graphs;
+
+import agg.xt_basis.Node;
+
+public class NodePair {
+
+	private Node key;
+	private Node value;
+	
+	public NodePair(Node a, Node b){
+		this.key = a;
+		this.value = b;
+	}
+	
+	public Node getKey(){
+		return this.key;
+	}
+	
+	public Node getValue(){
+		return this.value;
+	}
+	
+}

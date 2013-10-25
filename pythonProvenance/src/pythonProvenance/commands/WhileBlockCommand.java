@@ -1,0 +1,61 @@
+package pythonProvenance.commands;
+
+public class WhileBlockCommand extends Command {
+
+	private Command whileClause;
+	private Command elseClause;
+	private int startLine;
+	private int endLine;
+	
+	public WhileBlockCommand(Command a, Command b, int c){
+		this.whileClause = a;
+		this.elseClause = b;
+		this.endLine = c;
+		this.startLine = -1;
+	}
+	
+	public WhileBlockCommand(Command a, int c){
+		this.whileClause = a;
+		this.elseClause = null;
+		this.endLine = c;
+		this.startLine = -1;
+	}
+	
+	public int getStartLine(){
+		return this.startLine;
+	}
+	
+	public int getEndLine(){
+		return this.endLine;
+	}
+	
+	public int findStartLine(){
+		WhileClauseCommand a = (WhileClauseCommand) this.whileClause;
+		int start = a.getStartLine(); 
+		return start;
+	}
+	
+	public void setStartLine(int a){
+		this.startLine = a;
+	}
+	
+	public int getLine(){
+		return this.endLine;
+	}
+	
+	public Command getWhileClause(){
+		return this.whileClause;
+	}
+	
+	public Command getElseClause(){
+		return this.elseClause;
+	}
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return true;
+	}
+	
+	
+
+}

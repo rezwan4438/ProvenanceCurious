@@ -1,0 +1,15 @@
+
+from whoosh.index import create_in
+from whoosh.fields import *
+from whoosh.qparser import QueryParser
+from whoosh.highlight import PinpointFragmenter
+
+ix = create_in("../indexdir", schema)
+
+with ix.searcher() as searcher:
+	query = QueryParser("content", ix.schema)
+	matcher = query.matcher(searcher)
+	
+
+
+

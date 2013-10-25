@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22820</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P7</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22821</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V12</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22822</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP6</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22823</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V13</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22824</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP7</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134861</millis>
+  <sequence>22825</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V15</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22826</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP8</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22827</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V17</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22828</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P14</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22829</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V25</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22830</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP12</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22831</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V26</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22832</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P16</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22833</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V28</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22834</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP13</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22835</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V33</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22836</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP14</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22837</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V37</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22838</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP18</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22839</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V45</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22840</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP19</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22841</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V54</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22842</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP20</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22843</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V56</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22844</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP21</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22845</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V58</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22846</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP22</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22847</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V60</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22848</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP23</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22849</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V62</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22850</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP24</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22851</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V64</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22852</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP25</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22853</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V66</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22854</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP26</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22855</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V68</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22856</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP29</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22857</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V76</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22858</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP30</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22859</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V79</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22860</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P57</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22861</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V91</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22862</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP33</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22863</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V92</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22864</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P63</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22865</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V99</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22866</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P68</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22867</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V104</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22868</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P97</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22869</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V133</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22870</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P99</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22871</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V135</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22872</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P103</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22873</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V140</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22874</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P105</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22875</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V142</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22876</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P128</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22877</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V166</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22878</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P130</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22879</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V169</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22880</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P135</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22881</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V172</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22882</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP37</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22883</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V173</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22884</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P136</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22885</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V175</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22886</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP38</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22887</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V176</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22888</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P138</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22889</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V178</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22890</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P140</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22891</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V179</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22892</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P142</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:54</date>
+  <millis>1380898134876</millis>
+  <sequence>22893</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V180</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:55</date>
+  <millis>1380898135934</millis>
+  <sequence>22894</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_demonstration.py_transformed_withMerging.ggx</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:55</date>
+  <millis>1380898135934</millis>
+  <sequence>22895</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2013-10-04T20:48:56</date>
+  <millis>1380898136227</millis>
+  <sequence>22896</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>

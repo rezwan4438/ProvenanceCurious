@@ -1,0 +1,9 @@
+import PCRaster as pcr
+conv1= 100
+for year in range(1960,2001,1):  
+        irrArea= pcr.scalar('irrigation\\irra%04d.map' % (year))
+        for month in range(1,13,1):
+                esp= pcr.readmap('PCRGLOBWB\\esp\\esp0%04d.%03d' % (year,month)) 
+                esa= pcr.readmap('PCRGLOBWB\\esa\\esac%04d.%03d' % (year,month))
+                irlCrop = pcr.max(0.,esp - esa)*irrArea*30/conv1
+                pcr.report(irlCrop,'tempResults\\irlCrop%04d.%03d' % (year,month))

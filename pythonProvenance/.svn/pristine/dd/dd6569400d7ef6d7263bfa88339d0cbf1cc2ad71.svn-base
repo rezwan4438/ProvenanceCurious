@@ -1,0 +1,102 @@
+package commands;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class IfBlockCommand extends Command {
+
+	private Command ifClause;
+	private ArrayList<Command> elifClauses;
+	private Command elseClause;
+	private int startLine;
+	private int endLine;
+	
+	public IfBlockCommand(Command a, int d){
+		this.ifClause = a;
+		this.elseClause = null;
+		this.elifClauses = null;
+		this.endLine = d;
+		this.startLine = -1;
+	}
+	
+	public IfBlockCommand(Command a, Command c, int d){
+		this.ifClause = a;
+		this.elseClause = c;
+		this.elifClauses = null;
+		this.endLine = d;
+		this.startLine = -1;
+	}
+	
+	public IfBlockCommand(Command a, List<Command> b, Command c, int d){
+		this.ifClause = a;
+		this.elseClause = c;
+		this.elifClauses = (ArrayList<Command>) b;
+		this.endLine = d;
+		this.startLine = -1;
+	}
+	
+	public IfBlockCommand(Command a, List<Command> b, int d){
+		this.ifClause = a;
+		this.elseClause = null;
+		this.elifClauses = (ArrayList<Command>) b;
+		this.endLine = d;
+		this.startLine = -1;
+	}
+	
+	public int getStartLine(){
+		return this.startLine;
+	}
+	
+	public int getEndLine(){
+		return this.endLine;
+	}
+	
+	public int findStartLine(){
+		IfClauseCommand a = (IfClauseCommand) this.ifClause;
+		int start = a.getStartLine(); 
+		return start;
+	}
+	
+	public void setStartLine(int a){
+		this.startLine = a;
+	}
+	
+	public int getLine(){
+		return this.endLine;
+	}
+	
+	public Command getIfClause(){
+		return this.ifClause;
+	}
+	
+	public Command getElseClause(){
+		return this.elseClause;
+	}
+	
+	public ArrayList<Command> getElifClauses(){
+		return this.elifClauses;
+	}
+	
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return true;
+	}
+
+	public List<Command> getStatements() {
+		List<Command> statements = new ArrayList<Command>();
+		statements.add(this.ifClause);
+		if(this.elseClause!=null)
+			statements.add(this.elseClause);
+		if(this.elifClauses!=null){
+			Iterator<Command> cit = this.elifClauses.iterator();
+			while(cit.hasNext()){
+				statements.add(cit.next());
+			}
+		}
+		return statements;
+	}
+
+	
+}

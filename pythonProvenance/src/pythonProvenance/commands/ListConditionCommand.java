@@ -1,0 +1,26 @@
+package pythonProvenance.commands;
+
+public class ListConditionCommand extends Command {
+	
+	private Command variable;
+	private Command condition;
+	private int line;
+	
+	public ListConditionCommand(Command a, Command b, int c){
+		this.variable = a;
+		this.condition = b;
+		this.line = c;
+	}
+	
+	public int getLine(){
+		return this.line;
+	}
+	
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}
+

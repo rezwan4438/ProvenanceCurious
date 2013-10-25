@@ -1,0 +1,6 @@
+endYear = 2001
+staYear = 2000
+b = [pcr.scalar(0) for year in range (endYear-staYear)]
+year = 2000
+month = 12
+c = 'str%03d%03d'%(year, month)

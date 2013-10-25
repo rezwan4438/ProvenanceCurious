@@ -1,0 +1,15 @@
+class DateTime:
+
+
+	def __init__(dateTime, date, hour, minute):
+		dateTime.date = date
+		dateTime.hour = hour
+		
+		
+		dateTime.minute = minute
+	print 'definition complete'
+	
+
+
+
+ 

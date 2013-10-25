@@ -1,0 +1,45 @@
+package commands;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListComprehensionCommand extends Command{
+
+	private ArrayList<Command> arguments;
+	private Command list_for;
+	private int line;
+
+	public ListComprehensionCommand(List a, Command b, int c){
+		this.arguments = (ArrayList<Command>)a;
+		this.list_for = b;
+		this.line = c;
+	}
+
+	public ListComprehensionCommand(List a, int c){
+		this.arguments = (ArrayList<Command>)a;
+		this.list_for = null;
+		this.line = c;
+	}
+
+	public int getLine(){
+		return this.line;
+	}
+
+	public ArrayList<Command> getArguments(){
+		return this.arguments;
+	}
+
+	public Command getListFor(){
+		return this.list_for;
+	}
+
+
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return true;
+	}
+
+
+
+}

@@ -1,0 +1,40 @@
+import os, calendar
+import PCRaster as pcr
+#Run time
+staYear= int(2000)
+endYear= int(2001)
+staMonth= int(1)
+endMonth= int(13)
+timeStep= int(1)
+cloneFile= ('globalclone.map')
+pcr.setclone(cloneFile)
+clone= pcr.readmap(cloneFile)
+conv1= int(100)
+for year in range(staYear,endYear,timeStep):  
+        irrArea= pcr.scalar('irrigation\\irra%04d.map' % (year))
+        for month in range(staMonth,endMonth,timeStep):
+                daysMonth= calendar.monthrange(year,month)
+                daysMonth= daysMonth[1]
+                esp= pcr.readmap('PCRGLOBWB\\esp\\esp0%04d.%03d' % (year,month)) 
+                esa= pcr.readmap('PCRGLOBWB\\esa\\esac%04d.%03d' % (year,month))
+                irlCrop = pcr.max(0.,esp - esa)*daysMonth*irrArea/conv1
+                pcr.report(irlCrop,'tempResults\\irlCrop%04d.%03d' % (year,month))
+              	
+
+
+
+
+#yCnt = 0
+#staYear = int(1960)
+#endYear = int(2001)
+#timeStep = int(1)
+
+#for year in range(staYear,endYear,timeStep): 
+#		irrArea= pcr.scalar('irrigation\\irra%04d.map' % (year))
+#		totDemandAnn= pcr.scalar(0)
+#		for month in range(staMonth,endMonth,timeStep):
+#				totDemand= 10
+#				otherDemands= pcr.scalar('otherWDs\\othr%04d.0%02d' % (year,month))
+#				totDemandAnn = otherDemands + totDemand
+#		totDemandList[yCnt]= pcr.scalar(totDemandAnn)
+#        yCnt+=1

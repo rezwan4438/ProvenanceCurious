@@ -1,0 +1,2 @@
+s = 'string%3d%4d'%(year,month)
+a = i%TR

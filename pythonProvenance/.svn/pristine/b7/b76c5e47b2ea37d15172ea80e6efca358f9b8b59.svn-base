@@ -1,0 +1,40 @@
+package pythonProvenance.inference;
+
+public class PersistentProcess {
+	private String processID;
+	private String viewName;
+	private String value;
+	//private String valueType;
+	
+	public PersistentProcess(String a, String b){
+		this.processID = a;
+		this.viewName = b;
+		this.value = null;
+		//this.valueType = null; 
+	}
+	
+	public PersistentProcess(String a, String b, String c){
+		this.processID = a;
+		this.viewName = b;
+		this.value = c;
+		//this.valueType = d;
+	}
+	
+	public String getProcessID(){
+		return this.processID;
+	}
+	
+	public String getViewName(){
+		return this.viewName;
+	}
+	
+	public String getValue(){
+		return this.value;
+	}
+	/*
+	public String getValueType(){
+		return this.valueType;
+	}
+	*/
+	
+}

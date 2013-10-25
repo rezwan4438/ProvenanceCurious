@@ -1,0 +1,9 @@
+def myFunc(a,b):
+    c = a+b
+    d = a-b
+    return c, d
+
+x = myFunc(10,5)
+
+c1 = x[0]
+d1 = x[1]

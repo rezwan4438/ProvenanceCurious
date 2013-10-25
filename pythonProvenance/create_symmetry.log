@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176164</millis>
+  <sequence>617</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  2.RemovingViews(process) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176164</millis>
+  <sequence>618</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 3.RemovingViews(source) so long as possible</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176164</millis>
+  <sequence>619</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 3.RemovingViews(source)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176169</millis>
+  <sequence>620</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  3.RemovingViews(source) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176170</millis>
+  <sequence>621</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 5.IdentifyingOutputProcess so long as possible</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176170</millis>
+  <sequence>622</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 5.IdentifyingOutputProcess    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176182</millis>
+  <sequence>623</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  5.IdentifyingOutputProcess : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176530</millis>
+  <sequence>624</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_create_symmetry.py_transformed_.ggx</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176532</millis>
+  <sequence>625</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176542</millis>
+  <sequence>626</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_create_symmetry.py_afterTransform.jpg</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:36</date>
+  <millis>1354132176542</millis>
+  <sequence>627</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_create_symmetry.py_afterTransform.jpg provenance_graph_create_symmetry.py_afterTransform.dot</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:42</date>
+  <millis>1354132182276</millis>
+  <sequence>628</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:42</date>
+  <millis>1354132182277</millis>
+  <sequence>629</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:42</date>
+  <millis>1354132182283</millis>
+  <sequence>630</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-11-28T20:49:42</date>
+  <millis>1354132182283</millis>
+  <sequence>631</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>
+<record>
+  <date>2012-11-28T20:50:02</date>
+  <millis>1354132202544</millis>
+  <sequence>632</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Executing re-write rule for method concatenation ... </message>
+</record>
+<record>
+  <date>2012-11-28T20:50:02</date>
+  <millis>1354132202546</millis>
+  <sequence>633</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:02</date>
+  <millis>1354132202552</millis>
+  <sequence>634</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_create_symmetry.py_methodConcat.jpg</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:02</date>
+  <millis>1354132202552</millis>
+  <sequence>635</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_create_symmetry.py_methodConcat.jpg provenance_graph_create_symmetry.py_methodConcat.dot</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:07</date>
+  <millis>1354132207175</millis>
+  <sequence>636</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:07</date>
+  <millis>1354132207176</millis>
+  <sequence>637</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:07</date>
+  <millis>1354132207180</millis>
+  <sequence>638</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-11-28T20:50:07</date>
+  <millis>1354132207180</millis>
+  <sequence>639</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>

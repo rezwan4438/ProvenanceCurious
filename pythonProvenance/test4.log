@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574536</millis>
+  <sequence>7</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Create graphGrammar  &lt;Provenance-Graph&gt; ...</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574579</millis>
+  <sequence>8</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V1:i</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574580</millis>
+  <sequence>9</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueSourceNode</method>
+  <thread>10</thread>
+  <message>***Source Node Created*** S1:100</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574580</millis>
+  <sequence>10</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Left side Command Type:pythonProvenance.commands.VariableCommand</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574581</millis>
+  <sequence>11</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createSourceProcessNode</method>
+  <thread>10</thread>
+  <message>***Source Process Node Created*** SP1:=</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574582</millis>
+  <sequence>12</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>View i already exists! </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574582</millis>
+  <sequence>13</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Last Reference Updated</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574583</millis>
+  <sequence>14</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>*** Content of viewTuples ***</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574583</millis>
+  <sequence>15</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V1 i pythonProvenance.commands.VariableCommand@c55e36 [pythonProvenance.commands.VariableCommand@c55e36, pythonProvenance.commands.VariableCommand@1f630dc]  ([11533424] Node: View)  ValueTuple@9856161 "V1"  "i"  "NA"  true  false  "pythonProvenance.commands.VariableCommand@c55e36"  ""  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574583</millis>
+  <sequence>16</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>S1 100 pythonProvenance.commands.DatatypeCommand@1ac3c08 [pythonProvenance.commands.DatatypeCommand@1ac3c08]  ([26208195] Node: Source)  ValueTuple@27837671 "S1"  "100"  "INT_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1ac3c08"  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574584</millis>
+  <sequence>17</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>SP1 = pythonProvenance.commands.AssignCommand@9971ad [pythonProvenance.commands.AssignCommand@9971ad]  ([11533424] Node: View)  ValueTuple@9856161 "V1"  "i"  "NA"  true  false  "pythonProvenance.commands.VariableCommand@c55e36"  ""  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574584</millis>
+  <sequence>18</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueSourceNode</method>
+  <thread>10</thread>
+  <message>***Source Node Created*** S2:10</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574585</millis>
+  <sequence>19</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P1:&gt;</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574585</millis>
+  <sequence>20</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V2:int_P1</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574586</millis>
+  <sequence>21</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V3:j</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574586</millis>
+  <sequence>22</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V4:file</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574587</millis>
+  <sequence>23</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>View i already exists! </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574587</millis>
+  <sequence>24</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Last Reference Updated</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574587</millis>
+  <sequence>25</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>*** Content of viewTuples ***</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574587</millis>
+  <sequence>26</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V1 i pythonProvenance.commands.VariableCommand@c55e36 [pythonProvenance.commands.VariableCommand@c55e36, pythonProvenance.commands.VariableCommand@1f630dc, pythonProvenance.commands.VariableCommand@1bf6770]  ([11533424] Node: View)  ValueTuple@9856161 "V1"  "i"  "NA"  true  false  "pythonProvenance.commands.VariableCommand@c55e36"  ""  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574588</millis>
+  <sequence>27</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>S1 100 pythonProvenance.commands.DatatypeCommand@1ac3c08 [pythonProvenance.commands.DatatypeCommand@1ac3c08]  ([26208195] Node: Source)  ValueTuple@27837671 "S1"  "100"  "INT_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1ac3c08"  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574588</millis>
+  <sequence>28</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>SP1 = pythonProvenance.commands.AssignCommand@9971ad [pythonProvenance.commands.AssignCommand@9971ad]  ([11533424] Node: View)  ValueTuple@9856161 "V1"  "i"  "NA"  true  false  "pythonProvenance.commands.VariableCommand@c55e36"  ""  7  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574588</millis>
+  <sequence>29</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>S2 10 pythonProvenance.commands.DatatypeCommand@1c5c1 [pythonProvenance.commands.DatatypeCommand@1c5c1]  ([18296328] Node: Source)  ValueTuple@25669322 "S2"  "10"  "INT_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1c5c1"  8  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574588</millis>
+  <sequence>30</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V2 int_P1 pythonProvenance.commands.BinaryCommand@5e0602 [pythonProvenance.commands.BinaryCommand@5e0602]  ([24287316] Node: View)  ValueTuple@14978587 "V2"  "int_P1"  "P1"  false  true  "pythonProvenance.commands.BinaryCommand@5e0602"  ""  8  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574589</millis>
+  <sequence>31</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V3 j pythonProvenance.commands.VariableCommand@fa9cf [pythonProvenance.commands.VariableCommand@fa9cf]  ([33482492] Node: View)  ValueTuple@19770577 "V3"  "j"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@fa9cf"  ""  10  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574589</millis>
+  <sequence>32</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V4 file pythonProvenance.commands.VariableCommand@55571e [pythonProvenance.commands.VariableCommand@55571e]  ([32429958] Node: View)  ValueTuple@28117098 "V4"  "file"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@55571e"  ""  10  </message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574590</millis>
+  <sequence>33</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P2:append</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574590</millis>
+  <sequence>34</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Creating Arcs from Arguments -&gt; Process: j.append... Number: 1</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574590</millis>
+  <sequence>35</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>ArgumentpythonProvenance.commands.VariableCommand@1bf6770</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574591</millis>
+  <sequence>36</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V5:j</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574591</millis>
+  <sequence>37</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMemberFunctionCallProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P3:Call Member Function</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574592</millis>
+  <sequence>38</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P4:forLoop</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574592</millis>
+  <sequence>39</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P5:range</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574593</millis>
+  <sequence>40</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** NULL:NULL</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574593</millis>
+  <sequence>41</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V6:file</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574594</millis>
+  <sequence>42</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Create tempInputArc failed! Graph.createArc:: Cannot create an Arc of type :    Source or target node is null!</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574594</millis>
+  <sequence>43</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createArcsWithStatements</method>
+  <thread>10</thread>
+  <message>Current Statement: pythonProvenance.commands.MethodCommand@94948a</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574594</millis>
+  <sequence>44</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P6:WhileClause</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574595</millis>
+  <sequence>45</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P6:WhileClause</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574595</millis>
+  <sequence>46</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P7:range</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574596</millis>
+  <sequence>47</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** NULL:NULL</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574596</millis>
+  <sequence>48</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V7:i&gt;10</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574596</millis>
+  <sequence>49</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createArcsWithStatements</method>
+  <thread>10</thread>
+  <message>Current Statement: pythonProvenance.commands.PrintCommand@1787038</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574597</millis>
+  <sequence>50</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createArcsWithStatements</method>
+  <thread>10</thread>
+  <message>Create tempInputArc failed! (Method) Graph.createArc:: Cannot create an Arc of type :    Source or target node is null!</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574597</millis>
+  <sequence>51</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createArcsWithStatements</method>
+  <thread>10</thread>
+  <message>Current Statement: pythonProvenance.commands.ForLoopCommand@a401c2</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574597</millis>
+  <sequence>52</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P8:WhileBlock</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574598</millis>
+  <sequence>53</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P8:WhileBlock</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574599</millis>
+  <sequence>54</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574601</millis>
+  <sequence>55</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>String Name: 100</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574601</millis>
+  <sequence>56</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>String Name: 10</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574605</millis>
+  <sequence>57</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>=== === Node Statistics === ===</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574605</millis>
+  <sequence>58</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>Number of Sources:		2</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574605</millis>
+  <sequence>59</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>Number of Source Processes:	1</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574606</millis>
+  <sequence>60</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>Number of Processes:		8</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574606</millis>
+  <sequence>61</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>Number of Views:		7</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574611</millis>
+  <sequence>62</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar  Provenance_Graph_2  is ready to transform</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574823</millis>
+  <sequence>63</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar Provenance_Graph_2 saved in Provenance_Graph_2_test4.py.ggx</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574823</millis>
+  <sequence>64</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_test4.py_beforeTransform.jpg</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:54</date>
+  <millis>1353581574824</millis>
+  <sequence>65</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_test4.py_beforeTransform.jpg provenance_graph_test4.py_beforeTransform.dot</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:55</date>
+  <millis>1353581575702</millis>
+  <sequence>66</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:55</date>
+  <millis>1353581575702</millis>
+  <sequence>67</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:55</date>
+  <millis>1353581575716</millis>
+  <sequence>68</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-11-22T11:52:55</date>
+  <millis>1353581575716</millis>
+  <sequence>69</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>

@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1577</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C1 '''
+Created on Jun 19, 2012
+
+@author: hoekstra
+''' pythonProvenance.commands.DatatypeCommand@1c63e8c [pythonProvenance.commands.DatatypeCommand@1c63e8c]  ([7443611] Node: Source)  ValueTuple@19934057 "C1"  "'''
+Created on Jun 19, 2012
+
+@author: hoekstra
+'''"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1c63e8c"  1  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1578</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V2 level pythonProvenance.commands.VariableCommand@234265 [pythonProvenance.commands.VariableCommand@234265, pythonProvenance.commands.VariableCommand@baa31b]  ([30638763] Node: View)  ValueTuple@27456945 "V2"  "level"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@234265"  ""  13  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1579</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V3 evSummary pythonProvenance.commands.VariableCommand@dc1f04 [pythonProvenance.commands.VariableCommand@dc1f04]  ([19391214] Node: View)  ValueTuple@28340672 "V3"  "evSummary"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@dc1f04"  ""  13  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1580</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V4 referenceNr pythonProvenance.commands.VariableCommand@1784427 [pythonProvenance.commands.VariableCommand@1784427]  ([27505497] Node: View)  ValueTuple@16512285 "V4"  "referenceNr"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1784427"  ""  13  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1581</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V5 recInReference pythonProvenance.commands.VariableCommand@c272bc [pythonProvenance.commands.VariableCommand@c272bc]  ([5480205] Node: View)  ValueTuple@26834877 "V5"  "recInReference"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@c272bc"  ""  13  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190887</millis>
+  <sequence>1582</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V6 evInReference pythonProvenance.commands.VariableCommand@1fac852 [pythonProvenance.commands.VariableCommand@1fac852]  ([32459563] Node: View)  ValueTuple@8662426 "V6"  "evInReference"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1fac852"  ""  13  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1583</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C2 r'(\d\.)+ (.*)' pythonProvenance.commands.DatatypeCommand@1e940b [pythonProvenance.commands.DatatypeCommand@1e940b]  ([30277812] Node: Source)  ValueTuple@26545674 "C2"  "r'(\d\.)+ (.*)'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1e940b"  17  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1584</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C3 r'\2' pythonProvenance.commands.DatatypeCommand@189635d [pythonProvenance.commands.DatatypeCommand@189635d]  ([26240997] Node: Source)  ValueTuple@13423132 "C3"  "r'\2'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@189635d"  17  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1585</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V7 int_P1 pythonProvenance.commands.MethodCommand@5ff916 [pythonProvenance.commands.MethodCommand@5ff916]  ([2056993] Node: View)  ValueTuple@13798906 "V7"  "int_P1"  "P1"  false  true  "pythonProvenance.commands.MethodCommand@5ff916"  ""  17  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1586</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P2 = pythonProvenance.commands.AssignCommand@da3772 [pythonProvenance.commands.AssignCommand@da3772]  ([15312834] Node: View)  ValueTuple@23536061 "V8"  "rec"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@6a435f"  ""  17  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1587</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V9 annotationTimestamp pythonProvenance.commands.VariableCommand@6e41b5 [pythonProvenance.commands.VariableCommand@6e41b5, pythonProvenance.commands.VariableCommand@1080876]  ([10265083] Node: View)  ValueTuple@30940873 "V9"  "annotationTimestamp"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@6e41b5"  ""  19  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1588</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C4 "%Y-%m-%dT%H:%M:%S" pythonProvenance.commands.DatatypeCommand@1041876 [pythonProvenance.commands.DatatypeCommand@1041876]  ([21928017] Node: Source)  ValueTuple@30227927 "C4"  ""%Y-%m-%dT%H:%M:%S""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1041876"  19  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1589</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V10 int_P3 pythonProvenance.commands.MethodCommand@16f5261 [pythonProvenance.commands.MethodCommand@16f5261]  ([16501616] Node: View)  ValueTuple@26675936 "V10"  "int_P3"  "P3"  false  true  "pythonProvenance.commands.MethodCommand@16f5261"  ""  19  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1590</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V11 int_P4 pythonProvenance.commands.MethodCommand@1896a4c [pythonProvenance.commands.MethodCommand@1896a4c]  ([9209226] Node: View)  ValueTuple@21690871 "V11"  "int_P4"  "P4"  false  true  "pythonProvenance.commands.MethodCommand@1896a4c"  ""  19  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190888</millis>
+  <sequence>1591</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P5 = pythonProvenance.commands.AssignCommand@a1aa85 [pythonProvenance.commands.AssignCommand@a1aa85]  ([10265083] Node: View)  ValueTuple@30940873 "V9"  "annotationTimestamp"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@6e41b5"  ""  19  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1592</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V12 snapshotTimestamp pythonProvenance.commands.VariableCommand@1c21ece [pythonProvenance.commands.VariableCommand@1c21ece, pythonProvenance.commands.VariableCommand@1a9f87c, pythonProvenance.commands.VariableCommand@1015a9e, pythonProvenance.commands.VariableCommand@42a818]  ([19703168] Node: View)  ValueTuple@23126121 "V12"  "snapshotTimestamp"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1c21ece"  ""  22  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1593</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C5 "2012-06-21T12:34:34" pythonProvenance.commands.DatatypeCommand@174a6e2 [pythonProvenance.commands.DatatypeCommand@174a6e2]  ([2456372] Node: Source)  ValueTuple@19736274 "C5"  ""2012-06-21T12:34:34""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@174a6e2"  22  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1594</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P6 = pythonProvenance.commands.AssignCommand@1786a3c [pythonProvenance.commands.AssignCommand@1786a3c]  ([19703168] Node: View)  ValueTuple@23126121 "V12"  "snapshotTimestamp"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1c21ece"  ""  22  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1595</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V13 recHash pythonProvenance.commands.VariableCommand@869113 [pythonProvenance.commands.VariableCommand@869113, pythonProvenance.commands.VariableCommand@3aef16, pythonProvenance.commands.VariableCommand@1162212, pythonProvenance.commands.VariableCommand@128635, pythonProvenance.commands.VariableCommand@a1d7b]  ([22926122] Node: View)  ValueTuple@22007194 "V13"  "recHash"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@869113"  ""  24  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1596</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V14 int_P7 pythonProvenance.commands.MethodCommand@6d3b92 [pythonProvenance.commands.MethodCommand@6d3b92]  ([21789336] Node: View)  ValueTuple@2547660 "V14"  "int_P7"  "P7"  false  true  "pythonProvenance.commands.MethodCommand@6d3b92"  ""  24  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1597</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V15 int_P8 pythonProvenance.commands.MethodCommand@162198b [pythonProvenance.commands.MethodCommand@162198b]  ([24431393] Node: View)  ValueTuple@22185277 "V15"  "int_P8"  "P8"  false  true  "pythonProvenance.commands.MethodCommand@162198b"  ""  24  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1598</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P9 = pythonProvenance.commands.AssignCommand@17b1d64 [pythonProvenance.commands.AssignCommand@17b1d64]  ([22926122] Node: View)  ValueTuple@22007194 "V13"  "recHash"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@869113"  ""  24  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1599</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V16 recURI pythonProvenance.commands.VariableCommand@1c6a99d [pythonProvenance.commands.VariableCommand@1c6a99d, pythonProvenance.commands.VariableCommand@1bf68a9, pythonProvenance.commands.VariableCommand@123a389, pythonProvenance.commands.VariableCommand@1aa0e3b, pythonProvenance.commands.VariableCommand@110278e, pythonProvenance.commands.VariableCommand@100aff5, pythonProvenance.commands.VariableCommand@16b9e62, pythonProvenance.commands.VariableCommand@135daf]  ([25228613] Node: View)  ValueTuple@11105479 "V16"  "recURI"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1c6a99d"  ""  25  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1600</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C6 "/" pythonProvenance.commands.DatatypeCommand@63b2e6 [pythonProvenance.commands.DatatypeCommand@63b2e6]  ([20050612] Node: Source)  ValueTuple@22091943 "C6"  ""/""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@63b2e6"  25  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190889</millis>
+  <sequence>1601</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V17 int_P10 pythonProvenance.commands.BinaryCommand@1762fc7 [pythonProvenance.commands.BinaryCommand@1762fc7]  ([25619834] Node: View)  ValueTuple@19505022 "V17"  "int_P10"  "P10"  false  true  "pythonProvenance.commands.BinaryCommand@1762fc7"  ""  25  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190891</millis>
+  <sequence>1602</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V18 int_P11 pythonProvenance.commands.BinaryCommand@126c6ea [pythonProvenance.commands.BinaryCommand@126c6ea]  ([1008536] Node: View)  ValueTuple@8920243 "V18"  "int_P11"  "P11"  false  true  "pythonProvenance.commands.BinaryCommand@126c6ea"  ""  25  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190891</millis>
+  <sequence>1603</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P13 = pythonProvenance.commands.AssignCommand@ba6c13 [pythonProvenance.commands.AssignCommand@ba6c13]  ([25228613] Node: View)  ValueTuple@11105479 "V16"  "recURI"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1c6a99d"  ""  25  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190891</millis>
+  <sequence>1604</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C7 'RecommendationAnnotation' pythonProvenance.commands.DatatypeCommand@1e16483 [pythonProvenance.commands.DatatypeCommand@1e16483]  ([20728841] Node: Source)  ValueTuple@27525703 "C7"  "'RecommendationAnnotation'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1e16483"  27  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1605</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C8 'Annotation' pythonProvenance.commands.DatatypeCommand@429c19 [pythonProvenance.commands.DatatypeCommand@429c19]  ([9544955] Node: Source)  ValueTuple@31889293 "C8"  "'Annotation'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@429c19"  28  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1606</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C9 'Annotation' pythonProvenance.commands.DatatypeCommand@135da43 [pythonProvenance.commands.DatatypeCommand@135da43]  ([31970563] Node: Source)  ValueTuple@24742184 "C9"  "'Annotation'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@135da43"  29  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1607</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C10 "/" pythonProvenance.commands.DatatypeCommand@1f8d244 [pythonProvenance.commands.DatatypeCommand@1f8d244]  ([2021292] Node: Source)  ValueTuple@11780687 "C10"  ""/""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1f8d244"  34  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1608</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V21 int_P14 pythonProvenance.commands.BinaryCommand@b48b11 [pythonProvenance.commands.BinaryCommand@b48b11]  ([5474485] Node: View)  ValueTuple@26867942 "V21"  "int_P14"  "P14"  false  true  "pythonProvenance.commands.BinaryCommand@b48b11"  ""  34  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1609</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V22 int_P15 pythonProvenance.commands.BinaryCommand@16daa9 [pythonProvenance.commands.BinaryCommand@16daa9]  ([14518777] Node: View)  ValueTuple@9249408 "V22"  "int_P15"  "P15"  false  true  "pythonProvenance.commands.BinaryCommand@16daa9"  ""  34  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1610</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P17 = pythonProvenance.commands.AssignCommand@893969 [pythonProvenance.commands.AssignCommand@893969]  ([22142166] Node: View)  ValueTuple@1810905 "V20"  "target"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@79801c"  ""  34  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1611</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V24 selector pythonProvenance.commands.VariableCommand@1185844 [pythonProvenance.commands.VariableCommand@1185844, pythonProvenance.commands.VariableCommand@9c176c, pythonProvenance.commands.VariableCommand@1f47ae8, pythonProvenance.commands.VariableCommand@4133b0, pythonProvenance.commands.VariableCommand@c017e9, pythonProvenance.commands.VariableCommand@1ac1e22]  ([33008558] Node: View)  ValueTuple@30684172 "V24"  "selector"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1185844"  ""  35  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1612</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C11 "/" pythonProvenance.commands.DatatypeCommand@1e45a5c [pythonProvenance.commands.DatatypeCommand@1e45a5c]  ([10817575] Node: Source)  ValueTuple@27649631 "C11"  ""/""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1e45a5c"  35  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1613</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V25 int_P18 pythonProvenance.commands.BinaryCommand@e8606c [pythonProvenance.commands.BinaryCommand@e8606c]  ([7930258] Node: View)  ValueTuple@12031745 "V25"  "int_P18"  "P18"  false  true  "pythonProvenance.commands.BinaryCommand@e8606c"  ""  35  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190892</millis>
+  <sequence>1614</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V26 int_P19 pythonProvenance.commands.BinaryCommand@292cb2 [pythonProvenance.commands.BinaryCommand@292cb2]  ([18082035] Node: View)  ValueTuple@1386051 "V26"  "int_P19"  "P19"  false  true  "pythonProvenance.commands.BinaryCommand@292cb2"  ""  35  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1615</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P21 = pythonProvenance.commands.AssignCommand@4788d5 [pythonProvenance.commands.AssignCommand@4788d5]  ([33008558] Node: View)  ValueTuple@30684172 "V24"  "selector"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@1185844"  ""  35  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1616</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C12 'hasTarget' pythonProvenance.commands.DatatypeCommand@e80740 [pythonProvenance.commands.DatatypeCommand@e80740]  ([8593864] Node: Source)  ValueTuple@18800663 "C12"  "'hasTarget'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@e80740"  36  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1617</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C13 'hasBody' pythonProvenance.commands.DatatypeCommand@652110 [pythonProvenance.commands.DatatypeCommand@652110]  ([670174] Node: Source)  ValueTuple@25980092 "C13"  "'hasBody'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@652110"  37  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1618</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C14 'utf-8' pythonProvenance.commands.DatatypeCommand@1321f5 [pythonProvenance.commands.DatatypeCommand@1321f5]  ([22889945] Node: Source)  ValueTuple@3583619 "C14"  "'utf-8'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1321f5"  37  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1619</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V28 int_P22 pythonProvenance.commands.MethodCommand@13e4a5a [pythonProvenance.commands.MethodCommand@13e4a5a]  ([3529877] Node: View)  ValueTuple@33236179 "V28"  "int_P22"  "P22"  false  true  "pythonProvenance.commands.MethodCommand@13e4a5a"  ""  37  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1620</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V30 int_P25 pythonProvenance.commands.MethodCommand@19d3b3a [pythonProvenance.commands.MethodCommand@19d3b3a]  ([23148272] Node: View)  ValueTuple@17507279 "V30"  "int_P25"  "P25"  false  true  "pythonProvenance.commands.MethodCommand@19d3b3a"  ""  37  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1621</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C15 'SpecificResource' pythonProvenance.commands.DatatypeCommand@ec898a [pythonProvenance.commands.DatatypeCommand@ec898a]  ([6040101] Node: Source)  ValueTuple@13823905 "C15"  "'SpecificResource'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@ec898a"  39  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1622</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C16 'hasSource' pythonProvenance.commands.DatatypeCommand@a6cbf7 [pythonProvenance.commands.DatatypeCommand@a6cbf7]  ([7493991] Node: Source)  ValueTuple@21271291 "C16"  "'hasSource'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@a6cbf7"  40  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1623</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V31 source pythonProvenance.commands.VariableCommand@f268de [pythonProvenance.commands.VariableCommand@f268de, pythonProvenance.commands.VariableCommand@143a083]  ([21735842] Node: View)  ValueTuple@17683656 "V31"  "source"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@f268de"  ""  40  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190893</millis>
+  <sequence>1624</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C17 'hasSelector' pythonProvenance.commands.DatatypeCommand@198e8b4 [pythonProvenance.commands.DatatypeCommand@198e8b4]  ([17608609] Node: Source)  ValueTuple@31356055 "C17"  "'hasSelector'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@198e8b4"  41  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1625</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C18 'TextQuoteSelector' pythonProvenance.commands.DatatypeCommand@1b09282 [pythonProvenance.commands.DatatypeCommand@1b09282]  ([2486131] Node: Source)  ValueTuple@9137209 "C18"  "'TextQuoteSelector'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1b09282"  43  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1626</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C19 'prefix' pythonProvenance.commands.DatatypeCommand@190d8e1 [pythonProvenance.commands.DatatypeCommand@190d8e1]  ([23999306] Node: Source)  ValueTuple@30491812 "C19"  "'prefix'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@190d8e1"  44  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1627</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C20 "" pythonProvenance.commands.DatatypeCommand@9abce9 [pythonProvenance.commands.DatatypeCommand@9abce9]  ([32063489] Node: Source)  ValueTuple@32607422 "C20"  """"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@9abce9"  44  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1628</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V32 int_P26 pythonProvenance.commands.MethodCommand@95215b [pythonProvenance.commands.MethodCommand@95215b]  ([7722840] Node: View)  ValueTuple@21960486 "V32"  "int_P26"  "P26"  false  true  "pythonProvenance.commands.MethodCommand@95215b"  ""  44  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1629</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C21 'exact' pythonProvenance.commands.DatatypeCommand@1c13d0b [pythonProvenance.commands.DatatypeCommand@1c13d0b]  ([24691856] Node: Source)  ValueTuple@16405758 "C21"  "'exact'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1c13d0b"  45  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1630</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C22 'utf-8' pythonProvenance.commands.DatatypeCommand@8a1977 [pythonProvenance.commands.DatatypeCommand@8a1977]  ([28368430] Node: Source)  ValueTuple@14814968 "C22"  "'utf-8'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@8a1977"  45  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1631</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V34 int_P29 pythonProvenance.commands.MethodCommand@c5e2cf [pythonProvenance.commands.MethodCommand@c5e2cf]  ([32336015] Node: View)  ValueTuple@15856458 "V34"  "int_P29"  "P29"  false  true  "pythonProvenance.commands.MethodCommand@c5e2cf"  ""  45  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1632</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C23 'suffix' pythonProvenance.commands.DatatypeCommand@a826da [pythonProvenance.commands.DatatypeCommand@a826da]  ([10192886] Node: Source)  ValueTuple@16253147 "C23"  "'suffix'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@a826da"  46  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190894</millis>
+  <sequence>1633</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C24 "" pythonProvenance.commands.DatatypeCommand@1991de1 [pythonProvenance.commands.DatatypeCommand@1991de1]  ([16476003] Node: Source)  ValueTuple@21348 "C24"  """"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@1991de1"  46  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1634</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V35 int_P30 pythonProvenance.commands.MethodCommand@11abd68 [pythonProvenance.commands.MethodCommand@11abd68]  ([33066941] Node: View)  ValueTuple@23261232 "V35"  "int_P30"  "P30"  false  true  "pythonProvenance.commands.MethodCommand@11abd68"  ""  46  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1635</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P31 if pythonProvenance.commands.IfClauseCommand@c08593 [pythonProvenance.commands.IfClauseCommand@c08593]  ([5662259] Node: Process)  ValueTuple@8850991 "P31"  "if"  "NA"  ""    "IfClause"  "ManyToOne"  1  "pythonProvenance.commands.IfClauseCommand@c08593"  32  46        </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1636</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C25 "/" pythonProvenance.commands.DatatypeCommand@29d65b [pythonProvenance.commands.DatatypeCommand@29d65b]  ([11816628] Node: Source)  ValueTuple@26607396 "C25"  ""/""  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@29d65b"  49  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1637</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V36 int_P32 pythonProvenance.commands.BinaryCommand@b8176d [pythonProvenance.commands.BinaryCommand@b8176d]  ([22527820] Node: View)  ValueTuple@10601858 "V36"  "int_P32"  "P32"  false  true  "pythonProvenance.commands.BinaryCommand@b8176d"  ""  49  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1638</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V37 int_P33 pythonProvenance.commands.BinaryCommand@158291 [pythonProvenance.commands.BinaryCommand@158291]  ([8855141] Node: View)  ValueTuple@14696971 "V37"  "int_P33"  "P33"  false  true  "pythonProvenance.commands.BinaryCommand@158291"  ""  49  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1639</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V39 target pythonProvenance.commands.VariableCommand@181b3d4 [pythonProvenance.commands.VariableCommand@181b3d4]  ([28329183] Node: View)  ValueTuple@17823274 "V39"  "target"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@181b3d4"  ""  49  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1640</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P35 = pythonProvenance.commands.AssignCommand@18f9b75 [pythonProvenance.commands.AssignCommand@18f9b75]  ([28329183] Node: View)  ValueTuple@17823274 "V39"  "target"  "NA"  false  false  "pythonProvenance.commands.VariableCommand@181b3d4"  ""  49  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1641</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C26 'hasTarget' pythonProvenance.commands.DatatypeCommand@24c414 [pythonProvenance.commands.DatatypeCommand@24c414]  ([15365449] Node: Source)  ValueTuple@12195679 "C26"  "'hasTarget'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@24c414"  50  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1642</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C27 'hasBody' pythonProvenance.commands.DatatypeCommand@cec78d [pythonProvenance.commands.DatatypeCommand@cec78d]  ([18239702] Node: Source)  ValueTuple@28965003 "C27"  "'hasBody'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@cec78d"  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190895</millis>
+  <sequence>1643</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C28 'utf-8' pythonProvenance.commands.DatatypeCommand@8890da [pythonProvenance.commands.DatatypeCommand@8890da]  ([1389308] Node: Source)  ValueTuple@7118534 "C28"  "'utf-8'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@8890da"  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1644</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V40 int_P36 pythonProvenance.commands.MethodCommand@58e2a1 [pythonProvenance.commands.MethodCommand@58e2a1]  ([6451154] Node: View)  ValueTuple@19656428 "V40"  "int_P36"  "P36"  false  true  "pythonProvenance.commands.MethodCommand@58e2a1"  ""  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1645</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V41 int_P37 pythonProvenance.commands.MethodCommand@186f3b3 [pythonProvenance.commands.MethodCommand@186f3b3]  ([25805098] Node: View)  ValueTuple@22210913 "V41"  "int_P37"  "P37"  false  true  "pythonProvenance.commands.MethodCommand@186f3b3"  ""  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1646</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V42 rec pythonProvenance.commands.MethodCommand@e9aa13 [pythonProvenance.commands.MethodCommand@e9aa13]  ([10033007] Node: View)  ValueTuple@5764479 "V42"  "rec"  "P38"  false  false  "pythonProvenance.commands.MethodCommand@e9aa13"  ""  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1647</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>V43 int_P40 pythonProvenance.commands.MethodCommand@6691da [pythonProvenance.commands.MethodCommand@6691da]  ([27891911] Node: View)  ValueTuple@11963918 "V43"  "int_P40"  "P40"  false  true  "pythonProvenance.commands.MethodCommand@6691da"  ""  52  </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1648</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P41 else pythonProvenance.commands.ElseClauseCommand@152bdc7 [pythonProvenance.commands.ElseClauseCommand@152bdc7]  ([7050181] Node: Process)  ValueTuple@19421516 "P41"  "else"  "NA"  ""    "ElseClause"  "ManyToOne"  1  "pythonProvenance.commands.ElseClauseCommand@152bdc7"  48  52        </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1649</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>P42 If-Elif-Else Block pythonProvenance.commands.IfBlockCommand@1296d1d [pythonProvenance.commands.IfBlockCommand@1296d1d]  ([23154843] Node: Process)  ValueTuple@33468166 "P42"  "If-Elif-Else Block"  "NA"  ""    "IfBlock"  "ManyToOne"  1  "pythonProvenance.commands.IfBlockCommand@1296d1d"  32  52        </message>
+</record>
+<record>
+  <date>2013-06-25T11:39:50</date>
+  <millis>1372153190896</millis>
+  <sequence>1650</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P43:if</message>
+</record>

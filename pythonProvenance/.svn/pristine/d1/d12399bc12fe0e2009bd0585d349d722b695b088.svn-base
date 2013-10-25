@@ -1,0 +1,75 @@
+package graphs;
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+import agg.xt_basis.Node;
+
+public class ViewTuples {
+	private String ident;
+	private String name;
+	private String firstRef;
+	private List<String> lastRef = new ArrayList<String>();
+	private Node nodeRef;
+	private int line;
+	
+	public ViewTuples () {}
+	
+	public ViewTuples(String a, String b, String c, String d, Node e, int f){
+		this.ident = a;
+		this.name = b;
+		this.firstRef = c;
+		this.lastRef.add(d);
+		this.nodeRef = e;
+		this.line = f;
+	}
+	
+	public void setIdent(String a){
+		this.ident = a;
+	}
+	
+	public void setName(String b){
+		this.name = b;
+	}
+	
+	public void setFirstRef(String c){
+		this.firstRef = c;
+	}
+	
+	public void setLastRef(String d){
+		this.lastRef.add(d);
+	}
+	
+	public void setNodeRef(Node e){
+		this.nodeRef = e;
+	}
+	
+	public void setLine(int f){
+		this.line = f;
+	}
+	
+	public String getIdent(){
+		return this.ident;
+	}
+	
+	public String getName(){
+		return this.name;
+	}
+	
+	public String getFirstRef(){
+		return this.firstRef;
+	}
+	
+	public List getlastRef(){
+		return this.lastRef;
+	}
+	
+	public Node getNodeRef(){
+		return this.nodeRef;
+	}
+	
+	public int getLine(){
+		return this.line;
+	}
+}

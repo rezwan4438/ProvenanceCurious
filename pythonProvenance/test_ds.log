@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432987</millis>
+  <sequence>839</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..TEXT..=..ID..=..TEXT..Schema Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432987</millis>
+  <sequence>840</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>=..=..TEXT =..ID..=..TEXT..Schema </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432987</millis>
+  <sequence>841</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True =..ID..=..TEXT..Schema</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>842</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True =..ID..=..TEXT..Schema</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>843</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>844</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>845</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>=..=..TEXT..=..ID..=..TEXT..Schema whoosh.index.create_in </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>846</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True whoosh.index.create_in</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>847</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True whoosh.index.create_in</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432988</millis>
+  <sequence>848</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True whoosh.index.create_in</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432989</millis>
+  <sequence>849</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True whoosh.index.create_in</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432989</millis>
+  <sequence>850</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432989</millis>
+  <sequence>851</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in..writer Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432989</millis>
+  <sequence>852</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>=..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in writer </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>853</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: "../indexdir" writer</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>854</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True writer</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>855</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True writer</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>856</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True writer</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>857</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: True writer</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432990</millis>
+  <sequence>858</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>859</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..add_document Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>860</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>= add_document </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>861</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in..writer add_document</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>862</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>863</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..add_document Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>864</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>= =..add_document </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432991</millis>
+  <sequence>865</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"Guideline" =..add_document</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432992</millis>
+  <sequence>866</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432992</millis>
+  <sequence>867</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..=..add_document Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432992</millis>
+  <sequence>868</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>= =..=..add_document </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432992</millis>
+  <sequence>869</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"/a" =..=..add_document</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432992</millis>
+  <sequence>870</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432993</millis>
+  <sequence>871</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..=..=..add_document Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432993</millis>
+  <sequence>872</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>= =..=..=..add_document </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432993</millis>
+  <sequence>873</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"""content""" =..=..=..add_document</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432993</millis>
+  <sequence>874</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432993</millis>
+  <sequence>875</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 =..=..=..=..add_document..commit Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>876</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>=..=..=..=..add_document commit </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>877</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in..writer commit</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>878</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"Guideline" commit</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>879</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"/a" commit</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>880</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"""content""" commit</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432994</millis>
+  <sequence>881</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432995</millis>
+  <sequence>882</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 searcher..enter Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432995</millis>
+  <sequence>883</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>searcher enter </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432995</millis>
+  <sequence>884</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in..writer enter</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432995</millis>
+  <sequence>885</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432996</millis>
+  <sequence>886</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 parse..= Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432996</millis>
+  <sequence>887</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>parse = </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432996</millis>
+  <sequence>888</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: u"neutropenia" =</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432996</millis>
+  <sequence>889</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: whoosh.qparser.QueryParser =</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432996</millis>
+  <sequence>890</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>891</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 whoosh.qparser.QueryParser..parse..= Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>892</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>whoosh.qparser.QueryParser parse..= </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>893</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: "content" parse..=</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>894</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>895</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 matcher..= Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432997</millis>
+  <sequence>896</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>matcher = </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432998</millis>
+  <sequence>897</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: as =</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432998</millis>
+  <sequence>898</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: whoosh.qparser.QueryParser..parse..= =</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432998</millis>
+  <sequence>899</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432998</millis>
+  <sequence>900</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 next..is_active Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432998</millis>
+  <sequence>901</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>next is_active </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432999</millis>
+  <sequence>902</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: spans is_active</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:32</date>
+  <millis>1354937432999</millis>
+  <sequence>903</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433000</millis>
+  <sequence>904</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 next..is_active..range Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433000</millis>
+  <sequence>905</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>next..is_active range </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433000</millis>
+  <sequence>906</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: spans range</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433000</millis>
+  <sequence>907</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433001</millis>
+  <sequence>908</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 as..matcher..= Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433001</millis>
+  <sequence>909</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>as matcher..= </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433001</millis>
+  <sequence>910</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: searcher..enter matcher..=</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433001</millis>
+  <sequence>911</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433002</millis>
+  <sequence>912</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Inside M6 searcher..enter..as..matcher..= Merged Process</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433002</millis>
+  <sequence>913</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>searcher..enter as..matcher..= </message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433002</millis>
+  <sequence>914</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Input Node: =..=..TEXT..=..ID..=..TEXT..Schema..whoosh.index.create_in..writer as..matcher..=</message>
+</record>
+<record>
+  <date>2012-12-08T04:30:33</date>
+  <millis>1354937433002</millis>
+  <sequence>915</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule8A</method>
+  <thread>10</thread>
+  <message>Node destroyed</message>
+</record>
+</log>

@@ -1,0 +1,1 @@
+dot -Tjpeg -o provenance_graph_test1.py_base_2012_10_200_200.jpg provenance_graph_test1.py_base_2012_10_200_200.dot

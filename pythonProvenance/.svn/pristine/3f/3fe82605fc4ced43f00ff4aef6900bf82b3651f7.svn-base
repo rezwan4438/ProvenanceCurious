@@ -1,0 +1,31 @@
+x = 100
+a = 5
+
+if x>0:
+	n = 1
+	c = 5
+elif x<0:
+	n = -1
+	#c = -5
+else:
+	n = 0
+	c = 0
+
+b = a+n
+d = b+c
+
+siteType = 2
+
+if siteType == 1:
+	siteTypeName = "g"
+elif siteType == 2:
+	siteTypeName = "q"
+elif siteType == 3:
+	siteTypeName = "s"
+else:
+	print 'unknown input'
+
+str = siteTypeName + "_" + siteType
+
+str1 = str + b + d
+

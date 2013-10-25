@@ -1,0 +1,26 @@
+package pythonProvenance.commands;
+
+public class ReturnCommand extends Command {
+	
+	private Command argument;
+	private int line;
+	
+	public ReturnCommand(Command a, int b){
+		this.argument = a;
+		this.line = b;
+	}
+	
+	public Command getArgument(){
+		return this.argument;
+	}
+	
+	public int getLine(){
+		return this.line;
+	}
+	@Override
+	public boolean validate() {
+		// TODO Auto-generated method stub
+		return true;
+	}
+
+}

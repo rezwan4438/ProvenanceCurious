@@ -1,0 +1,61 @@
+package pythonProvenance.gui;
+
+import java.awt.Image;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.FocusListener;
+import java.awt.event.WindowFocusListener;
+import java.io.IOException;
+import java.util.Timer;
+import java.util.logging.Logger;
+
+import javax.imageio.ImageIO;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+import pythonProvenance.PythonProvenance;
+
+
+public class splashScreen {
+
+	/**
+	 * @param args
+	 */
+	public static final Logger logger = Logger.getLogger(PythonProvenance.class.getName());
+	
+	public splashScreen(){
+		JFrame splash = new JFrame();
+		splash.setSize(475, 720);
+		splash.setTitle("ProvenanceCurious");
+		try {
+			splash.getContentPane().add(new panelWithBackground("background.jpg"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		splash.setVisible(true);
+		
+		synchronized(splash){
+	        try {
+				splash.wait(3000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+        
+        
+        
+        splash.dispose();
+        
+        
+
+       
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		splashScreen a = new splashScreen();
+		
+	}
+
+}

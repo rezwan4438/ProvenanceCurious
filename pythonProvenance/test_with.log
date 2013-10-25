@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-12-04T16:40:20</date>
+  <millis>1354635620158</millis>
+  <sequence>129</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_test_with.py_tryExceptFinally.jpg provenance_graph_test_with.py_tryExceptFinally.dot</message>
+</record>
+<record>
+  <date>2012-12-04T16:40:20</date>
+  <millis>1354635620594</millis>
+  <sequence>130</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-04T16:40:20</date>
+  <millis>1354635620595</millis>
+  <sequence>131</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-04T16:40:20</date>
+  <millis>1354635620601</millis>
+  <sequence>132</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-04T16:40:20</date>
+  <millis>1354635620602</millis>
+  <sequence>133</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>

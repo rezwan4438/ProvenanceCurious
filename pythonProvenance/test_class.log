@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762882</millis>
+  <sequence>121</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P12:show</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762882</millis>
+  <sequence>122</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Creating Arcs from Arguments -&gt; Process: x.show... Number: 0</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762883</millis>
+  <sequence>123</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V14:x</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762884</millis>
+  <sequence>124</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMemberFunctionCallProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P13:Call Member Function</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762886</millis>
+  <sequence>125</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:42</date>
+  <millis>1354620762896</millis>
+  <sequence>126</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar  Provenance_Graph_2  is ready to transform</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:43</date>
+  <millis>1354620763314</millis>
+  <sequence>127</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar Provenance_Graph_2 saved in Provenance_Graph_2_test_class.py.ggx</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:43</date>
+  <millis>1354620763315</millis>
+  <sequence>128</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_test_class.py_beforeTransform.jpg</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:43</date>
+  <millis>1354620763316</millis>
+  <sequence>129</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_test_class.py_beforeTransform.jpg provenance_graph_test_class.py_beforeTransform.dot</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:45</date>
+  <millis>1354620765684</millis>
+  <sequence>130</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:45</date>
+  <millis>1354620765684</millis>
+  <sequence>131</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:45</date>
+  <millis>1354620765688</millis>
+  <sequence>132</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-04T12:32:45</date>
+  <millis>1354620765689</millis>
+  <sequence>133</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>

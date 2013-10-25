@@ -1,0 +1,8 @@
+b = 6
+a = func.foo(5, b, (c+d))
+c = a
+a = func.foo(10, b)
+d = a + c
+
+
+

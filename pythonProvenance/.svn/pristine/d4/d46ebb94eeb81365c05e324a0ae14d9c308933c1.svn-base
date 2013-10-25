@@ -1,0 +1,15 @@
+x = 100
+a = 5
+y = 100
+
+if y>=100:
+	if x>0:
+		a = 10
+	else:
+		a = 100
+else:
+	print 'unknown'
+	
+b = a
+
+

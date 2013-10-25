@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313126</millis>
+  <sequence>117</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printViewTuples</method>
+  <thread>10</thread>
+  <message>C4 'output.txt' pythonProvenance.commands.DatatypeCommand@6a435f [pythonProvenance.commands.DatatypeCommand@6a435f]  ([26188661] Node: Source)  ValueTuple@2409492 "C4"  "'output.txt'"  "STRING_TYPE"  "[]"  "pythonProvenance.commands.DatatypeCommand@6a435f"  5  </message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313127</millis>
+  <sequence>118</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>First:write</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313127</millis>
+  <sequence>119</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Last:</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313127</millis>
+  <sequence>120</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>***Process Node Created*** P6:write</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313127</millis>
+  <sequence>121</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>Creating Arcs from Arguments -&gt; Process: write... Number: 2</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313128</millis>
+  <sequence>122</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>ArgumentpythonProvenance.commands.DatatypeCommand@6a435f</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313128</millis>
+  <sequence>123</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createProcessNode</method>
+  <thread>10</thread>
+  <message>ArgumentpythonProvenance.commands.VariableCommand@6d1750</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313128</millis>
+  <sequence>124</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>enterValueViewNode</method>
+  <thread>10</thread>
+  <message>***View Node Created*** V10:int_P6</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313152</millis>
+  <sequence>125</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313622</millis>
+  <sequence>126</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:33</date>
+  <millis>1372241313633</millis>
+  <sequence>127</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar  Provenance_Graph_2  is ready to transform</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315315</millis>
+  <sequence>128</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createGraGraGraph</method>
+  <thread>10</thread>
+  <message>Grammar Provenance_Graph_2 saved in Provenance_Graph_2_testExample.py.ggx</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315410</millis>
+  <sequence>129</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createRule1</method>
+  <thread>10</thread>
+  <message>Rule: 1.MakingViewsPersistent</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315419</millis>
+  <sequence>130</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createRule2</method>
+  <thread>10</thread>
+  <message>Rule: 2.RemovingViews(process)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315420</millis>
+  <sequence>131</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createRule3</method>
+  <thread>10</thread>
+  <message>Rule: 3.RemovingViews(source)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315421</millis>
+  <sequence>132</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createRule5</method>
+  <thread>10</thread>
+  <message>Rule: 5.IdentifyingOutputProcess</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315422</millis>
+  <sequence>133</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Matching and graph transformation </message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315422</millis>
+  <sequence>134</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Strategy: agg.xt_basis.Completion_NAC@17748d3</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315423</millis>
+  <sequence>135</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 1.MakingViewsPersistent so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315423</millis>
+  <sequence>136</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 1.MakingViewsPersistent    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315464</millis>
+  <sequence>137</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315465</millis>
+  <sequence>138</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315497</millis>
+  <sequence>139</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315498</millis>
+  <sequence>140</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315504</millis>
+  <sequence>141</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  1.MakingViewsPersistent : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315505</millis>
+  <sequence>142</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 2.RemovingViews(process) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315505</millis>
+  <sequence>143</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 2.RemovingViews(process)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315507</millis>
+  <sequence>144</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315508</millis>
+  <sequence>145</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315510</millis>
+  <sequence>146</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  2.RemovingViews(process) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315511</millis>
+  <sequence>147</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 3.RemovingViews(source) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315511</millis>
+  <sequence>148</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 3.RemovingViews(source)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315513</millis>
+  <sequence>149</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315513</millis>
+  <sequence>150</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315523</millis>
+  <sequence>151</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315523</millis>
+  <sequence>152</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315525</millis>
+  <sequence>153</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  3.RemovingViews(source) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315525</millis>
+  <sequence>154</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply 5.IdentifyingOutputProcess so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315525</millis>
+  <sequence>155</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule 5.IdentifyingOutputProcess    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315527</millis>
+  <sequence>156</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315527</millis>
+  <sequence>157</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315529</millis>
+  <sequence>158</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  5.IdentifyingOutputProcess : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315750</millis>
+  <sequence>159</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_testExample.py_transformed_.ggx</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:35</date>
+  <millis>1372241315752</millis>
+  <sequence>160</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:36</date>
+  <millis>1372241316937</millis>
+  <sequence>161</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:36</date>
+  <millis>1372241316938</millis>
+  <sequence>162</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Executing re-write rule for method concatenation ... </message>
+</record>
+<record>
+  <date>2013-06-26T12:08:36</date>
+  <millis>1372241316942</millis>
+  <sequence>163</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317335</millis>
+  <sequence>164</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317337</millis>
+  <sequence>165</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule1</method>
+  <thread>10</thread>
+  <message>Rule: M1.MergingSource(withSourceProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317338</millis>
+  <sequence>166</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule1a</method>
+  <thread>10</thread>
+  <message>Rule: M1a.MergingSource(withProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317339</millis>
+  <sequence>167</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule2a</method>
+  <thread>10</thread>
+  <message>Rule: M2a.MergingView(withProcess-toProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317340</millis>
+  <sequence>168</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule2b</method>
+  <thread>10</thread>
+  <message>Rule: M2b.MergingView(withProcess-toSourceProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317343</millis>
+  <sequence>169</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule3a</method>
+  <thread>10</thread>
+  <message>Rule: M3a.MergingView(withSourceProcesstoProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317344</millis>
+  <sequence>170</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule3b</method>
+  <thread>10</thread>
+  <message>Rule: M3b.MergingView(withSourceProcesstoSourceProcess)</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317345</millis>
+  <sequence>171</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Matching and graph transformation </message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317345</millis>
+  <sequence>172</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Strategy: agg.xt_basis.Completion_NAC@17748d3</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317345</millis>
+  <sequence>173</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M1.MergingSource(withSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317345</millis>
+  <sequence>174</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M1.MergingSource(withSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317348</millis>
+  <sequence>175</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317348</millis>
+  <sequence>176</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317350</millis>
+  <sequence>177</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317350</millis>
+  <sequence>178</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317351</millis>
+  <sequence>179</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M1.MergingSource(withSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317351</millis>
+  <sequence>180</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M1a.MergingSource(withProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317351</millis>
+  <sequence>181</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M1a.MergingSource(withProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317352</millis>
+  <sequence>182</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317353</millis>
+  <sequence>183</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317354</millis>
+  <sequence>184</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317354</millis>
+  <sequence>185</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317355</millis>
+  <sequence>186</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M1a.MergingSource(withProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317355</millis>
+  <sequence>187</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M2a.MergingView(withProcess-toProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317356</millis>
+  <sequence>188</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M2a.MergingView(withProcess-toProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317358</millis>
+  <sequence>189</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317358</millis>
+  <sequence>190</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317360</millis>
+  <sequence>191</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M2a.MergingView(withProcess-toProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317360</millis>
+  <sequence>192</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M2b.MergingView(withProcess-toSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317360</millis>
+  <sequence>193</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M2b.MergingView(withProcess-toSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317362</millis>
+  <sequence>194</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M2b.MergingView(withProcess-toSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317362</millis>
+  <sequence>195</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M3a.MergingView(withSourceProcesstoProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317362</millis>
+  <sequence>196</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M3a.MergingView(withSourceProcesstoProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317364</millis>
+  <sequence>197</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317364</millis>
+  <sequence>198</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317373</millis>
+  <sequence>199</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317373</millis>
+  <sequence>200</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317374</millis>
+  <sequence>201</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M3a.MergingView(withSourceProcesstoProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317374</millis>
+  <sequence>202</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M3b.MergingView(withSourceProcesstoSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317375</millis>
+  <sequence>203</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M3b.MergingView(withSourceProcesstoSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317376</millis>
+  <sequence>204</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M3b.MergingView(withSourceProcesstoSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317377</millis>
+  <sequence>205</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP1</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317377</millis>
+  <sequence>206</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V2</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317377</millis>
+  <sequence>207</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; SP3</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317377</millis>
+  <sequence>208</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V5</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317377</millis>
+  <sequence>209</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P5</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317378</millis>
+  <sequence>210</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V9</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317378</millis>
+  <sequence>211</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P6</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317378</millis>
+  <sequence>212</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V10</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317660</millis>
+  <sequence>213</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_testExample.py_transformed_withMerging.ggx</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317661</millis>
+  <sequence>214</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2013-06-26T12:08:37</date>
+  <millis>1372241317942</millis>
+  <sequence>215</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>
+</log>

@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-12-08T07:10:11</date>
+  <millis>1354947011042</millis>
+  <sequence>413</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_rdf_to_dot.py_transformed_.ggx</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:11</date>
+  <millis>1354947011043</millis>
+  <sequence>414</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:11</date>
+  <millis>1354947011048</millis>
+  <sequence>415</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_rdf_to.jpg</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:11</date>
+  <millis>1354947011048</millis>
+  <sequence>416</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_rdf_to.jpg provenance_graph_rdf_to_dot.py_afterTransform.dot</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:16</date>
+  <millis>1354947016208</millis>
+  <sequence>417</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:16</date>
+  <millis>1354947016208</millis>
+  <sequence>418</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:16</date>
+  <millis>1354947016213</millis>
+  <sequence>419</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:16</date>
+  <millis>1354947016213</millis>
+  <sequence>420</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:17</date>
+  <millis>1354947017804</millis>
+  <sequence>421</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Executing re-write rule for method concatenation ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:17</date>
+  <millis>1354947017806</millis>
+  <sequence>422</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:17</date>
+  <millis>1354947017811</millis>
+  <sequence>423</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_rdf_to.jpg</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:17</date>
+  <millis>1354947017811</millis>
+  <sequence>424</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_rdf_to.jpg provenance_graph_rdf_to_dot.py_methodConcat.dot</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:21</date>
+  <millis>1354947021972</millis>
+  <sequence>425</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:21</date>
+  <millis>1354947021973</millis>
+  <sequence>426</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:22</date>
+  <millis>1354947022008</millis>
+  <sequence>427</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:22</date>
+  <millis>1354947022009</millis>
+  <sequence>428</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:23</date>
+  <millis>1354947023619</millis>
+  <sequence>429</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Found for loop. Executing re-write rule ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:23</date>
+  <millis>1354947023623</millis>
+  <sequence>430</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:23</date>
+  <millis>1354947023629</millis>
+  <sequence>431</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_rdf_to.jpg</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:23</date>
+  <millis>1354947023629</millis>
+  <sequence>432</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_rdf_to.jpg provenance_graph_rdf_to_dot.py_forLoop.dot</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027434</millis>
+  <sequence>433</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027435</millis>
+  <sequence>434</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027438</millis>
+  <sequence>435</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027439</millis>
+  <sequence>436</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>**** Processes and Triggers ****</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027439</millis>
+  <sequence>437</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P1	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027439</millis>
+  <sequence>438</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P2	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027439</millis>
+  <sequence>439</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P4	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>440</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P6	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>441</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P7	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>442</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P8	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>443</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P10	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>444</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P12	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027440</millis>
+  <sequence>445</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P13	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027441</millis>
+  <sequence>446</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P15	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027441</millis>
+  <sequence>447</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P16	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027441</millis>
+  <sequence>448</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P18	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027441</millis>
+  <sequence>449</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P19	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027441</millis>
+  <sequence>450</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P20	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>451</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P21	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>452</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P22	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>453</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P23	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>454</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P25	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>455</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P26	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027442</millis>
+  <sequence>456</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>printProcess</method>
+  <thread>10</thread>
+  <message>Process: P27	-&gt;Trigger: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:27</date>
+  <millis>1354947027443</millis>
+  <sequence>457</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029028</millis>
+  <sequence>458</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Found if block. Executing re-write rule ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029028</millis>
+  <sequence>459</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Block: P23</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029029</millis>
+  <sequence>460</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>main Found: false</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029029</millis>
+  <sequence>461</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>ID: P22</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029029</millis>
+  <sequence>462</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>V19</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029030</millis>
+  <sequence>463</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Compare Node: P21</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029030</millis>
+  <sequence>464</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Changed Name: pn=='prov:wasScheduledAfter'</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029030</millis>
+  <sequence>465</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Candidate View: []</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029030</millis>
+  <sequence>466</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Total deleted arcs: 1</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029031</millis>
+  <sequence>467</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Deleted Arc: P22-&gt; P23</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029031</millis>
+  <sequence>468</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>Block: P27</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029031</millis>
+  <sequence>469</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>ifElifElseRule</method>
+  <thread>10</thread>
+  <message>main Found: true</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029032</millis>
+  <sequence>470</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029035</millis>
+  <sequence>471</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_rdf_to.jpg</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:29</date>
+  <millis>1354947029036</millis>
+  <sequence>472</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_rdf_to.jpg provenance_graph_rdf_to_dot.py_ifElifElse.dot</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:32</date>
+  <millis>1354947032481</millis>
+  <sequence>473</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:32</date>
+  <millis>1354947032482</millis>
+  <sequence>474</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:32</date>
+  <millis>1354947032486</millis>
+  <sequence>475</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:32</date>
+  <millis>1354947032486</millis>
+  <sequence>476</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Please Enter to Continue ... </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059146</millis>
+  <sequence>477</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule1</method>
+  <thread>10</thread>
+  <message>Rule: M1.MergingSource(withSourceProcess)</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059147</millis>
+  <sequence>478</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule2a</method>
+  <thread>10</thread>
+  <message>Rule: M2a.MergingView(withProcess-toProcess)</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059148</millis>
+  <sequence>479</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule2b</method>
+  <thread>10</thread>
+  <message>Rule: M2b.MergingView(withProcess-toSourceProcess)</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059148</millis>
+  <sequence>480</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule3a</method>
+  <thread>10</thread>
+  <message>Rule: M3a.MergingView(withSourceProcesstoProcess)</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059149</millis>
+  <sequence>481</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule3b</method>
+  <thread>10</thread>
+  <message>Rule: M3b.MergingView(withSourceProcesstoSourceProcess)</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059150</millis>
+  <sequence>482</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Matching and graph transformation </message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059150</millis>
+  <sequence>483</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Strategy: agg.xt_basis.Completion_NAC@90cb03</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059150</millis>
+  <sequence>484</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M1.MergingSource(withSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059150</millis>
+  <sequence>485</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M1.MergingSource(withSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059151</millis>
+  <sequence>486</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M1.MergingSource(withSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059151</millis>
+  <sequence>487</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M2a.MergingView(withProcess-toProcess) so long as possible</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059151</millis>
+  <sequence>488</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M2a.MergingView(withProcess-toProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059153</millis>
+  <sequence>489</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059153</millis>
+  <sequence>490</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059155</millis>
+  <sequence>491</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059155</millis>
+  <sequence>492</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059156</millis>
+  <sequence>493</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059157</millis>
+  <sequence>494</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059158</millis>
+  <sequence>495</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059158</millis>
+  <sequence>496</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059160</millis>
+  <sequence>497</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059160</millis>
+  <sequence>498</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059161</millis>
+  <sequence>499</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059162</millis>
+  <sequence>500</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059163</millis>
+  <sequence>501</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059163</millis>
+  <sequence>502</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059165</millis>
+  <sequence>503</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059165</millis>
+  <sequence>504</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059167</millis>
+  <sequence>505</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is complete</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059167</millis>
+  <sequence>506</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>match is valid</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059168</millis>
+  <sequence>507</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M2a.MergingView(withProcess-toProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059169</millis>
+  <sequence>508</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M2b.MergingView(withProcess-toSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059169</millis>
+  <sequence>509</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M2b.MergingView(withProcess-toSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059170</millis>
+  <sequence>510</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M2b.MergingView(withProcess-toSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059170</millis>
+  <sequence>511</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M3a.MergingView(withSourceProcesstoProcess) so long as possible</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059170</millis>
+  <sequence>512</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M3a.MergingView(withSourceProcesstoProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059171</millis>
+  <sequence>513</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M3a.MergingView(withSourceProcesstoProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059171</millis>
+  <sequence>514</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Apply M3b.MergingView(withSourceProcesstoSourceProcess) so long as possible</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059171</millis>
+  <sequence>515</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule M3b.MergingView(withSourceProcesstoSourceProcess)    &gt;&gt; create match</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059172</millis>
+  <sequence>516</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>matchRule</method>
+  <thread>10</thread>
+  <message>Rule  M3b.MergingView(withSourceProcesstoSourceProcess) : match has no more completionfalse</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059172</millis>
+  <sequence>517</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P12</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059172</millis>
+  <sequence>518</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V9</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>519</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P18</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>520</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V16</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>521</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P19</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>522</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V17</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>523</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P20</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059173</millis>
+  <sequence>524</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V18</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059175</millis>
+  <sequence>525</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>M5: Node id -&gt; P25</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059175</millis>
+  <sequence>526</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createMergingRule5</method>
+  <thread>10</thread>
+  <message>        Deleted View -&gt; V20</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059322</millis>
+  <sequence>527</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>After applying Rules,  graphGrammar  saved in  Provenance_Graph_2_rdf_to_dot.py_transformed_withMerging.ggx</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059323</millis>
+  <sequence>528</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>writeDottyFile</method>
+  <thread>10</thread>
+  <message>*** Nodes of the Graph ***</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059326</millis>
+  <sequence>529</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>provenance_graph_rdf_to.jpg</message>
+</record>
+<record>
+  <date>2012-12-08T07:10:59</date>
+  <millis>1354947059326</millis>
+  <sequence>530</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>cmd.exe /C dot -Tjpeg -o provenance_graph_rdf_to.jpg provenance_graph_rdf_to_dot.py_base.dot</message>
+</record>
+<record>
+  <date>2012-12-08T07:11:01</date>
+  <millis>1354947061110</millis>
+  <sequence>531</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>ExitValue: 0</message>
+</record>
+<record>
+  <date>2012-12-08T07:11:01</date>
+  <millis>1354947061112</millis>
+  <sequence>532</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Dotty File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:11:01</date>
+  <millis>1354947061116</millis>
+  <sequence>533</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>closeDottyFile</method>
+  <thread>10</thread>
+  <message>Image created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:11:01</date>
+  <millis>1354947061122</millis>
+  <sequence>534</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>createXML</method>
+  <thread>10</thread>
+  <message>XML File created successfully.</message>
+</record>
+<record>
+  <date>2012-12-08T07:11:01</date>
+  <millis>1354947061123</millis>
+  <sequence>535</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>graphGrammarTransform</method>
+  <thread>10</thread>
+  <message>Please enter to continue</message>
+</record>

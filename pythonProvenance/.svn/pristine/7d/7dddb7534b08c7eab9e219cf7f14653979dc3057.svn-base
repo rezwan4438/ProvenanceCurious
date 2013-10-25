@@ -1,0 +1,1 @@
+dot -Tjpeg -o provenance_graph_import_manager.py_beforeTransform.jpg provenance_graph_import_manager.py_beforeTransform.dot

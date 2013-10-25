@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090286</millis>
+  <sequence>102287</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V7#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090287</millis>
+  <sequence>102288</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P4#63 -&gt; V7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090289</millis>
+  <sequence>102289</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C3#63 -&gt; P4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090290</millis>
+  <sequence>102290</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P9#63 -&gt; V9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090291</millis>
+  <sequence>102291</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V10#63 -&gt; P9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090293</millis>
+  <sequence>102292</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P7#63 -&gt; V10#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090294</millis>
+  <sequence>102293</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V3#63 -&gt; P7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090295</millis>
+  <sequence>102294</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P70#63 -&gt; V46#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090297</millis>
+  <sequence>102295</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P72#63 -&gt; V47#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090298</millis>
+  <sequence>102296</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V44#63 -&gt; P72#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090301</millis>
+  <sequence>102297</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P66#63 -&gt; V44#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090302</millis>
+  <sequence>102298</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V43#63 -&gt; P66#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090303</millis>
+  <sequence>102299</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P64#63 -&gt; V43#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090305</millis>
+  <sequence>102300</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C17#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090308</millis>
+  <sequence>102301</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C18#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090309</millis>
+  <sequence>102302</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V70#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090310</millis>
+  <sequence>102303</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P63_cline#63 -&gt; V70#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090312</millis>
+  <sequence>102304</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39#63 -&gt; P63_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090313</millis>
+  <sequence>102305</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P59_cline#63 -&gt; V39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090314</millis>
+  <sequence>102306</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C12#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090316</millis>
+  <sequence>102307</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090317</millis>
+  <sequence>102308</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39_initial#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090318</millis>
+  <sequence>102309</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P57#63 -&gt; V39_initial#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090320</millis>
+  <sequence>102310</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C13#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090321</millis>
+  <sequence>102311</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C14#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090323</millis>
+  <sequence>102312</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V35#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090324</millis>
+  <sequence>102313</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P48#63 -&gt; V35#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090325</millis>
+  <sequence>102314</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C11#63 -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090327</millis>
+  <sequence>102315</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Found Arc</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090328</millis>
+  <sequence>102316</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Call Copy Graph: C11</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090330</millis>
+  <sequence>102317</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Target Node: C11#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090331</millis>
+  <sequence>102318</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>-------------------------------------</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090333</millis>
+  <sequence>102319</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>New Arc: </message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090334</millis>
+  <sequence>102320</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>V30#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090336</millis>
+  <sequence>102321</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message> -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090337</millis>
+  <sequence>102322</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>
+</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090339</millis>
+  <sequence>102323</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P2#63 -&gt; V3#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090340</millis>
+  <sequence>102324</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090342</millis>
+  <sequence>102325</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V4#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090343</millis>
+  <sequence>102326</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P1#63 -&gt; V4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090345</millis>
+  <sequence>102327</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C2#63 -&gt; P1#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090347</millis>
+  <sequence>102328</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P5#63 -&gt; V6#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090349</millis>
+  <sequence>102329</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V2#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090350</millis>
+  <sequence>102330</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V7#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090352</millis>
+  <sequence>102331</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P4#63 -&gt; V7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090354</millis>
+  <sequence>102332</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C3#63 -&gt; P4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090355</millis>
+  <sequence>102333</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P9#63 -&gt; V9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090357</millis>
+  <sequence>102334</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V10#63 -&gt; P9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090359</millis>
+  <sequence>102335</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P7#63 -&gt; V10#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090360</millis>
+  <sequence>102336</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V3#63 -&gt; P7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090362</millis>
+  <sequence>102337</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P70#63 -&gt; V46#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090363</millis>
+  <sequence>102338</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P72#63 -&gt; V47#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090365</millis>
+  <sequence>102339</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V44#63 -&gt; P72#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090366</millis>
+  <sequence>102340</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P66#63 -&gt; V44#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090367</millis>
+  <sequence>102341</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V43#63 -&gt; P66#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090369</millis>
+  <sequence>102342</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P64#63 -&gt; V43#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090370</millis>
+  <sequence>102343</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C17#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090372</millis>
+  <sequence>102344</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C18#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090373</millis>
+  <sequence>102345</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V70#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090375</millis>
+  <sequence>102346</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P63_cline#63 -&gt; V70#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090376</millis>
+  <sequence>102347</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39#63 -&gt; P63_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090378</millis>
+  <sequence>102348</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P59_cline#63 -&gt; V39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090379</millis>
+  <sequence>102349</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C12#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090381</millis>
+  <sequence>102350</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090382</millis>
+  <sequence>102351</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39_initial#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090383</millis>
+  <sequence>102352</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P57#63 -&gt; V39_initial#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090385</millis>
+  <sequence>102353</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C13#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090386</millis>
+  <sequence>102354</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C14#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090388</millis>
+  <sequence>102355</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V35#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090389</millis>
+  <sequence>102356</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P48#63 -&gt; V35#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090390</millis>
+  <sequence>102357</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C11#63 -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090392</millis>
+  <sequence>102358</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V30#63 -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090393</millis>
+  <sequence>102359</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Found Arc</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090394</millis>
+  <sequence>102360</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Call Copy Graph: V30</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090396</millis>
+  <sequence>102361</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Target Node: V30#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090397</millis>
+  <sequence>102362</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>-------------------------------------</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090398</millis>
+  <sequence>102363</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>New Arc: </message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090400</millis>
+  <sequence>102364</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>P39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090401</millis>
+  <sequence>102365</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message> -&gt; V30#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090403</millis>
+  <sequence>102366</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>
+</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090404</millis>
+  <sequence>102367</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P2#63 -&gt; V3#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090405</millis>
+  <sequence>102368</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090407</millis>
+  <sequence>102369</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V4#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090408</millis>
+  <sequence>102370</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P1#63 -&gt; V4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090410</millis>
+  <sequence>102371</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C2#63 -&gt; P1#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090411</millis>
+  <sequence>102372</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P5#63 -&gt; V6#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090413</millis>
+  <sequence>102373</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V2#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090414</millis>
+  <sequence>102374</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V7#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090416</millis>
+  <sequence>102375</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P4#63 -&gt; V7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090417</millis>
+  <sequence>102376</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C3#63 -&gt; P4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090419</millis>
+  <sequence>102377</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P9#63 -&gt; V9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090420</millis>
+  <sequence>102378</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V10#63 -&gt; P9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090421</millis>
+  <sequence>102379</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P7#63 -&gt; V10#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090423</millis>
+  <sequence>102380</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V3#63 -&gt; P7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090424</millis>
+  <sequence>102381</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P70#63 -&gt; V46#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090425</millis>
+  <sequence>102382</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P72#63 -&gt; V47#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090427</millis>
+  <sequence>102383</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V44#63 -&gt; P72#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090428</millis>
+  <sequence>102384</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P66#63 -&gt; V44#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090429</millis>
+  <sequence>102385</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V43#63 -&gt; P66#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090430</millis>
+  <sequence>102386</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P64#63 -&gt; V43#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090432</millis>
+  <sequence>102387</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C17#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090433</millis>
+  <sequence>102388</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C18#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090434</millis>
+  <sequence>102389</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V70#63 -&gt; P64#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090436</millis>
+  <sequence>102390</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P63_cline#63 -&gt; V70#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090437</millis>
+  <sequence>102391</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39#63 -&gt; P63_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090438</millis>
+  <sequence>102392</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P59_cline#63 -&gt; V39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090440</millis>
+  <sequence>102393</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C12#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090441</millis>
+  <sequence>102394</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090442</millis>
+  <sequence>102395</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V39_initial#63 -&gt; P59_cline#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090443</millis>
+  <sequence>102396</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P57#63 -&gt; V39_initial#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090445</millis>
+  <sequence>102397</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C13#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090446</millis>
+  <sequence>102398</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C14#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090448</millis>
+  <sequence>102399</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V35#63 -&gt; P57#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090449</millis>
+  <sequence>102400</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P48#63 -&gt; V35#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090451</millis>
+  <sequence>102401</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C11#63 -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090452</millis>
+  <sequence>102402</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V30#63 -&gt; P48#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090454</millis>
+  <sequence>102403</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P39#63 -&gt; V30#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090455</millis>
+  <sequence>102404</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Found Arc</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090456</millis>
+  <sequence>102405</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Call Copy Graph: P39</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090458</millis>
+  <sequence>102406</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Target Node: P39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090459</millis>
+  <sequence>102407</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>-------------------------------------</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090461</millis>
+  <sequence>102408</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>New Arc: </message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090462</millis>
+  <sequence>102409</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>V18#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090464</millis>
+  <sequence>102410</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message> -&gt; P39#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090465</millis>
+  <sequence>102411</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>
+</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090467</millis>
+  <sequence>102412</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P2#63 -&gt; V3#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090469</millis>
+  <sequence>102413</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V1#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090470</millis>
+  <sequence>102414</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V4#63 -&gt; P2#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090472</millis>
+  <sequence>102415</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P1#63 -&gt; V4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090473</millis>
+  <sequence>102416</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C2#63 -&gt; P1#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090476</millis>
+  <sequence>102417</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P5#63 -&gt; V6#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090477</millis>
+  <sequence>102418</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V2#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090482</millis>
+  <sequence>102419</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V7#63 -&gt; P5#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090483</millis>
+  <sequence>102420</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P4#63 -&gt; V7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090484</millis>
+  <sequence>102421</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: C3#63 -&gt; P4#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090486</millis>
+  <sequence>102422</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P9#63 -&gt; V9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090488</millis>
+  <sequence>102423</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V10#63 -&gt; P9#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090489</millis>
+  <sequence>102424</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P7#63 -&gt; V10#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090490</millis>
+  <sequence>102425</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V3#63 -&gt; P7#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090492</millis>
+  <sequence>102426</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P70#63 -&gt; V46#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090493</millis>
+  <sequence>102427</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P72#63 -&gt; V47#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090494</millis>
+  <sequence>102428</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: V44#63 -&gt; P72#63</message>
+</record>
+<record>
+  <date>2013-06-25T13:34:50</date>
+  <millis>1372160090496</millis>
+  <sequence>102429</sequence>
+  <logger>pythonProvenance.PythonProvenance</logger>
+  <level>INFO</level>
+  <class>pythonProvenance.graphs.ProvenanceGraph</class>
+  <method>copyGraph1</method>
+  <thread>10</thread>
+  <message>Old Arc: P66#63 -&gt; V44#63</message>
+</record>
+</log>
