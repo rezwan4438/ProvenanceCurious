@@ -1,0 +1,6 @@
+http://gmfsamples.tuxfamily.org/wiki/doku.php?id=gmf_tutorial5
+
+http://wiki.eclipse.org/Graphical_Modeling_Framework/Tutorial/Part_1
+http://wiki.eclipse.org/GMF_Tutorial_Part_2
+http://wiki.eclipse.org/GMF_Tutorial_Part_3
+http://wiki.eclipse.org/Graphical_Modeling_Framework/Tutorial/Part_4

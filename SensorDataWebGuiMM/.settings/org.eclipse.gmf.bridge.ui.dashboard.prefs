@@ -1,0 +1,8 @@
+#Tue Apr 17 09:44:02 CEST 2012
+eclipse.preferences.version=1
+gmf_dashboard/domainGenerationModel=platform\:/resource/SensorDataWebGuiMM/model/SensorDataWebGui.genmodel
+gmf_dashboard/domainModel=platform\:/resource/SensorDataWebGuiMM/model/SensorDataWebGui.ecore
+gmf_dashboard/generationModel=platform\:/resource/SensorDataWebGuiGMF/model/SensorDataWebGui.gmfgen
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/SensorDataWebGuiGMF/model/SensorDataWebGui.gmfgraph
+gmf_dashboard/mappingModel=platform\:/resource/SensorDataWebGuiGMF/model/SensorDataWebGui.gmfmap
+gmf_dashboard/toolingDefinitionModel=platform\:/resource/SensorDataWebGuiGMF/model/SensorDataWebGui.gmftool

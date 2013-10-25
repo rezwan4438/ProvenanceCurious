@@ -1,0 +1,49 @@
+steps to perform after generating the diagram code from the GMF model:
+- copy the content of directory diagram.update into this directory
+- open Manifest.mf and do the following things:
+   - add the to jar files in the lib in the Runtime tab to the classpath
+   - in the buildtab click the lib directory in the Binary Build part
+   - in the dependencies tab add the SensorDataWebGui.presentation as an importat package
+- open plugin.xml and add the following xml fragment:
+        <extension point="org.eclipse.ui.handlers" id="menu-handlers">
+   </extension>
+   <extension point="org.eclipse.ui.menus" id="context-menus">
+      <!-- menuContribution locationURI="menu:org.eclipse.ui.main.menu?after=">
+      </menuContribution>
+      <menuContribution locationURI="toolbar:org.eclipse.ui.main.toolbar?after=">
+      </menuContribution -->
+      <menuContribution locationURI="popup:org.eclipse.gmf.runtime.diagram.ui.DiagramEditorContextMenu">
+         <command commandId="SensorDataWebGuiMM.diagram.util.ShowGraphAction">
+            <visibleWhen>
+               <and>
+                  <with variable="activePartId"><equals value="SensorDataWebGui.diagram.part.SensorDataWebGuiDiagramEditorID"/></with>
+                  <with variable="selection"><iterate ifEmpty="false" operator="or"> 
+                  <or>
+                     <instanceof value="SensorDataWebGui.diagram.edit.parts.SourceEditPart"/>
+                     <instanceof value="SensorDataWebGui.diagram.edit.parts.ProcessingElementEditPart"/>
+                  </or>
+                  </iterate></with>
+               </and>
+            </visibleWhen>
+         </command>
+      </menuContribution>
+   </extension>
+
+   <extension point="org.eclipse.ui.commands" id="menu-commands">
+      <category id="SensorDataWebGui.diagram.part.SensorDataWebGuiDiagramEditorID" name="%cmdcategory.name" description="%cmdcategory.desc"/>
+      <command id="SensorDataWebGuiMM.diagram.util.ShowGraphAction"
+         name="Show Graph"
+         categoryId="SensorDataWebGui.diagram.part.SensorDataWebGuiDiagramEditorID"
+         defaultHandler="SensorDataWebGui.diagram.util.ShowGraphAction"/>
+   </extension>
+  <extension point="org.eclipse.ui.popupMenus"> 
+	<objectContribution 
+         objectClass="org.eclipse.core.resources.IFile" 
+         nameFilter="*.py"> 
+         <action
+            label="&amp;Import Provenance"
+            menubarPath="additions" 
+            class="SensorDataWebGui.diagram.util.ImportProvenanceDelegate" 
+            enablesFor="1" /> 
+      </objectContribution>
+      </extension>    

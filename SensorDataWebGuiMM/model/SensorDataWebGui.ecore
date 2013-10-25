@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="SensorDataWebGui"
+    nsURI="nl.utwente.ewi.gui" nsPrefix="sdwgui">
+  <eClassifiers xsi:type="ecore:EClass" name="StandardSensorDataWeb">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containsPEs" upperBound="-1"
+        eType="#//AbstractPE" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containsArcs" upperBound="-1"
+        eType="#//Arc" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="diagramType" eType="#//DiagramTypes"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="containsGraph" upperBound="-1"
+        eType="#//Graph" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Arc" abstract="true">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="windowPredicate" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="arcFromPE" lowerBound="1"
+        eType="#//AbstractPE"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="arcToPE" lowerBound="1"
+        eType="#//ProcessingElement"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="description" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="validTime" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//ELong"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="transactionTime" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//ELong"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="AbstractPE" abstract="true">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="view" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="nbrAllowedInputs" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"
+        defaultValueLiteral="0" derived="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="persistentView" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"
+        defaultValueLiteral="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="description" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="validTime" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//ELong"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="transactionTime" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//ELong"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="viewUsername" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="viewPassword" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="TupleWindow" eSuperTypes="#//Arc"/>
+  <eClassifiers xsi:type="ecore:EClass" name="TimeWindow" eSuperTypes="#//Arc"/>
+  <eClassifiers xsi:type="ecore:EClass" name="FixedWindow" eSuperTypes="#//Arc"/>
+  <eClassifiers xsi:type="ecore:EEnum" name="TriggerTypes">
+    <eLiterals name="tuple" literal="tuple"/>
+    <eLiterals name="time" value="1"/>
+    <eLiterals name="once" value="2"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="ProcessingElement" eSuperTypes="#//AbstractPE">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="triggerType" eType="#//TriggerTypes"
+        defaultValueLiteral="0"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="triggerpredicate" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
+        defaultValueLiteral=""/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="peType" eType="#//ProcessingElementTypes"
+        defaultValueLiteral="0"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="functorType" eType="#//FunctorTypes"
+        defaultValueLiteral="0"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="inputOutputMappingType"
+        eType="#//InputOutputMappingTypes" defaultValueLiteral="0"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="processingDelay" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="processingDelayDistribution"
+        eType="#//DistributionType"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hasGraphReference" upperBound="-1"
+        eType="#//GraphReference" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Source" eSuperTypes="#//AbstractPE">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="timeout" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="location" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="sampleTime" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="sampleTimeDistribution"
+        eType="#//DistributionType"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hasGraphReference" upperBound="-1"
+        eType="#//GraphReference" containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="sourceType" eType="#//SourceTypes"
+        defaultValueLiteral="0"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="SourceTypes">
+    <eLiterals name="memory"/>
+    <eLiterals name="gsn" value="1"/>
+    <eLiterals name="btInquery" value="2"/>
+    <eLiterals name="itooHammer" value="3" literal="itooHammer"/>
+    <eLiterals name="freehand" value="4" literal="freehand"/>
+    <eLiterals name="sparql" value="5"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="ProcessingElementTypes">
+    <eLiterals name="noop"/>
+    <eLiterals name="crossproduct" value="1"/>
+    <eLiterals name="deltaSelector" value="2"/>
+    <eLiterals name="functor" value="3"/>
+    <eLiterals name="intervalSelector" value="4"/>
+    <eLiterals name="projector" value="5"/>
+    <eLiterals name="replay" value="6"/>
+    <eLiterals name="selector" value="7"/>
+    <eLiterals name="join" value="8"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="FunctorTypes">
+    <eLiterals name="notapplicable" literal="notapplicable"/>
+    <eLiterals name="noop" value="1"/>
+    <eLiterals name="average" value="2"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="InputOutputMappingTypes">
+    <eLiterals name="oneToOne"/>
+    <eLiterals name="oneToMany" value="1"/>
+    <eLiterals name="manyToOne" value="2"/>
+    <eLiterals name="manyToMany" value="3"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="DiagramTypes">
+    <eLiterals name="standard"/>
+    <eLiterals name="provenance" value="1"/>
+    <eLiterals name="propagation" value="2"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="DistributionType">
+    <eLiterals name="Poisson"/>
+    <eLiterals name="Gaussian" value="1"/>
+    <eLiterals name="Normal" value="2"/>
+    <eLiterals name="Equi" value="3"/>
+    <eLiterals name="Exponential" value="4"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Graph">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="visible" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="xMin" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="xMax" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="yMin" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="yMax" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="description" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="id" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="GraphReference">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="id" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+  </eClassifiers>
+</ecore:EPackage>

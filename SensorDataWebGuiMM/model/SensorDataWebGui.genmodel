@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/SensorDataWebGuiMM/src"
+    modelPluginID="SensorDataWebGuiMM" modelName="SensorDataWebGui" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="5.0" copyrightFields="false">
+  <foreignModel>SensorDataWebGui.ecore</foreignModel>
+  <genPackages prefix="SensorDataWebGui" disposableProviderFactory="true" fileExtensions="sdw"
+      ecorePackage="SensorDataWebGui.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//TriggerTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//TriggerTypes/tuple"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//TriggerTypes/time"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//TriggerTypes/once"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//SourceTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/memory"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/gsn"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/btInquery"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/itooHammer"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/freehand"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//SourceTypes/sparql"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//ProcessingElementTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/noop"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/crossproduct"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/deltaSelector"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/functor"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/intervalSelector"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/projector"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/replay"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/selector"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//ProcessingElementTypes/join"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//FunctorTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//FunctorTypes/notapplicable"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//FunctorTypes/noop"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//FunctorTypes/average"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//InputOutputMappingTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//InputOutputMappingTypes/oneToOne"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//InputOutputMappingTypes/oneToMany"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//InputOutputMappingTypes/manyToOne"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//InputOutputMappingTypes/manyToMany"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//DiagramTypes">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DiagramTypes/standard"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DiagramTypes/provenance"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DiagramTypes/propagation"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="SensorDataWebGui.ecore#//DistributionType">
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DistributionType/Poisson"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DistributionType/Gaussian"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DistributionType/Normal"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DistributionType/Equi"/>
+      <genEnumLiterals ecoreEnumLiteral="SensorDataWebGui.ecore#//DistributionType/Exponential"/>
+    </genEnums>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//StandardSensorDataWeb">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//StandardSensorDataWeb/name"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//StandardSensorDataWeb/containsPEs"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//StandardSensorDataWeb/containsArcs"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//StandardSensorDataWeb/diagramType"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//StandardSensorDataWeb/containsGraph"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="SensorDataWebGui.ecore#//Arc">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Arc/windowPredicate"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Arc/name"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//Arc/arcFromPE"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//Arc/arcToPE"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Arc/description"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Arc/validTime"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Arc/transactionTime"/>
+    </genClasses>
+    <genClasses image="false" ecoreClass="SensorDataWebGui.ecore#//AbstractPE">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/view"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/nbrAllowedInputs"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/persistentView"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/description"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/validTime"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/transactionTime"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/viewUsername"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//AbstractPE/viewPassword"/>
+    </genClasses>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//TupleWindow"/>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//TimeWindow"/>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//FixedWindow"/>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//ProcessingElement">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/triggerType"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/triggerpredicate"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/peType"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/functorType"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/inputOutputMappingType"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/processingDelay"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//ProcessingElement/processingDelayDistribution"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//ProcessingElement/hasGraphReference"/>
+    </genClasses>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//Source">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Source/timeout"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Source/location"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Source/sampleTime"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Source/sampleTimeDistribution"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference SensorDataWebGui.ecore#//Source/hasGraphReference"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Source/sourceType"/>
+    </genClasses>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//Graph">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/visible"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/xMin"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/xMax"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/yMin"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/yMax"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/name"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/description"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//Graph/id"/>
+    </genClasses>
+    <genClasses ecoreClass="SensorDataWebGui.ecore#//GraphReference">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute SensorDataWebGui.ecore#//GraphReference/id"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

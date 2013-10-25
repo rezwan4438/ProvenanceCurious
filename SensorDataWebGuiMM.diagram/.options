@@ -1,0 +1,7 @@
+# Tracing options for the SensorDataWebGuiMM.diagram plug-in
+
+# Common issues
+SensorDataWebGuiMM.diagram/debug=false
+
+# Visual IDs
+SensorDataWebGuiMM.diagram/debug/visualID=false
