@@ -1,5 +1,0 @@
-https://github.com/Data2Semantics/raw2ld/blob/master/src/aersld/enrich/create_symmetry.py
-https://github.com/Data2Semantics/raw2ld/blob/master/src/aersld/enrich/transitive_matches.py
-https://github.com/Data2Semantics/raw2ld/blob/master/src/4store/import_manager.py
-https://github.com/Data2Semantics/raw2ld/blob/master/src/4store/graph_manager.py
-https://github.com/Data2Semantics/raw2ld/blob/master/src/clinicaltrials/eligibility_linker.py
